@@ -1,0 +1,1246 @@
+================================================================================
+RESIDENT ADVISOR - ALL LOCATIONS (639 total)
+================================================================================
+
+
+AFGHANISTAN (AF)
+--------------------------------------------------------------------------------
+  All                            | ID: 466    | URL: afghanistan
+
+ALBANIA (AL)
+--------------------------------------------------------------------------------
+  All                            | ID: 223    | URL: albania
+  Tirana                         | ID: 669    | URL: tirana
+
+ALGERIA (DZ)
+--------------------------------------------------------------------------------
+  All                            | ID: 307    | URL: algeria
+
+ANDORRA (AD)
+--------------------------------------------------------------------------------
+  All                            | ID: 288    | URL: andorra
+  Andorra la Vella               | ID: 567    | URL: Andorralavella
+
+ANGOLA (AO)
+--------------------------------------------------------------------------------
+  All                            | ID: 312    | URL: angola
+
+ANTIGUA AND BARBUDA (AG)
+--------------------------------------------------------------------------------
+  All                            | ID: 417    | URL: antiguaandbarbuda
+
+ARGENTINA (AR)
+--------------------------------------------------------------------------------
+  All                            | ID: 45     | URL: argentina
+  Buenos Aires                   | ID: 395    | URL: buenosaires
+
+ARMENIA (AM)
+--------------------------------------------------------------------------------
+  All                            | ID: 264    | URL: armenia
+
+AUSTRALIA (AU)
+--------------------------------------------------------------------------------
+  Adelaide                       | ID: 5      | URL: adelaide
+  Australian Capital Territory   | ID: 439    | URL: australiancapitalterritory
+  Brisbane                       | ID: 12     | URL: brisbane
+  Byron Bay                      | ID: 674    | URL: byronbay
+  Canberra                       | ID: 4      | URL: canberra
+  Darwin                         | ID: 441    | URL: darwin
+  Gold Coast                     | ID: 675    | URL: goldcoast
+  Hobart                         | ID: 6      | URL: hobart
+  Melbourne                      | ID: 2      | URL: melbourne
+  New South Wales                | ID: 433    | URL: newsouthwales
+  Northern Territory             | ID: 440    | URL: northernterritory
+  Perth                          | ID: 3      | URL: perth
+  Queensland                     | ID: 435    | URL: queensland
+  South Australia                | ID: 436    | URL: southaustralia
+  Sydney                         | ID: 1      | URL: sydney
+  Tasmania                       | ID: 438    | URL: tasmania
+  Victoria                       | ID: 434    | URL: victoria
+  Western Australia              | ID: 437    | URL: westernaustralia
+
+AUSTRIA (AT)
+--------------------------------------------------------------------------------
+  All                            | ID: 159    | URL: austria
+  Vienna                         | ID: 450    | URL: vienna
+
+AZERBAIJAN (AZ)
+--------------------------------------------------------------------------------
+  All                            | ID: 270    | URL: azerbaijan
+
+BAHAMAS (BS)
+--------------------------------------------------------------------------------
+  All                            | ID: 296    | URL: bahamas
+
+BAHRAIN (BA)
+--------------------------------------------------------------------------------
+  All                            | ID: 195    | URL: bahrain
+
+BANGLADESH (BD)
+--------------------------------------------------------------------------------
+  All                            | ID: 269    | URL: bangladesh
+
+BARBADOS (BB)
+--------------------------------------------------------------------------------
+  All                            | ID: 186    | URL: barbados
+
+BELARUS (BY)
+--------------------------------------------------------------------------------
+  All                            | ID: 189    | URL: belarus
+
+BELGIUM (BE)
+--------------------------------------------------------------------------------
+  All                            | ID: 62     | URL: belgium
+  Antwerp                        | ID: 404    | URL: antwerp
+  Brussels                       | ID: 405    | URL: brussels
+  Ghent                          | ID: 545    | URL: ghent
+
+BELIZE (BH)
+--------------------------------------------------------------------------------
+  All                            | ID: 331    | URL: belize
+
+BENIN (BJ)
+--------------------------------------------------------------------------------
+  All                            | ID: 418    | URL: benin
+
+BERMUDA (BM)
+--------------------------------------------------------------------------------
+  All                            | ID: 330    | URL: bermuda
+
+BHUTAN (BT)
+--------------------------------------------------------------------------------
+  All                            | ID: 419    | URL: bhutan
+
+BOLIVIA (BO)
+--------------------------------------------------------------------------------
+  All                            | ID: 200    | URL: bolivia
+
+BOSNIA AND HERZEGOVINA (BIH)
+--------------------------------------------------------------------------------
+  All                            | ID: 187    | URL: bosniaandherzegovina
+
+BOTSWANA (BW)
+--------------------------------------------------------------------------------
+  All                            | ID: 420    | URL: botswana
+
+BRAZIL (BR)
+--------------------------------------------------------------------------------
+  All                            | ID: 61     | URL: brazil
+  Rio de Janeiro                 | ID: 401    | URL: riodejaneiro
+  Sao Paulo                      | ID: 400    | URL: saopaulo
+
+BRUNEI (BN)
+--------------------------------------------------------------------------------
+  All                            | ID: 512    | URL: brunei
+
+BULGARIA (BG)
+--------------------------------------------------------------------------------
+  All                            | ID: 95     | URL: bulgaria
+  Sofia                          | ID: 558    | URL: sofia
+
+BURKINA FASO (BF)
+--------------------------------------------------------------------------------
+  All                            | ID: 421    | URL: burkinafaso
+
+BURUNDI (BI)
+--------------------------------------------------------------------------------
+  All                            | ID: 513    | URL: burundi
+
+CAMBODIA (KH)
+--------------------------------------------------------------------------------
+  All                            | ID: 272    | URL: cambodia
+
+CAMEROON (CM)
+--------------------------------------------------------------------------------
+  All                            | ID: 422    | URL: cameroon
+
+CANADA (CA)
+--------------------------------------------------------------------------------
+  Alberta                        | ID: 573    | URL: alberta
+  British Columbia               | ID: 571    | URL: britishcolumbia
+  Calgary                        | ID: 137    | URL: calgary
+  Charlottetown                  | ID: 588    | URL: charlottetown
+  Edmonton                       | ID: 54     | URL: edmonton
+  Halifax                        | ID: 586    | URL: halifax
+  Hamilton                       | ID: 662    | URL: hamilton
+  Manitoba                       | ID: 579    | URL: manitoba
+  Moncton                        | ID: 584    | URL: moncton
+  Montreal                       | ID: 40     | URL: montreal
+  New Brunswick                  | ID: 583    | URL: newbrunswick
+  Newfoundland and Labrador      | ID: 581    | URL: newfoundland
+  Northwest Territories          | ID: 575    | URL: northwestterritories
+  Nova Scotia                    | ID: 585    | URL: novascotia
+  Nunavut                        | ID: 576    | URL: nunavut
+  Ontario                        | ID: 570    | URL: ontario
+  Ottawa                         | ID: 74     | URL: ottawa
+  Prince Edward Island           | ID: 587    | URL: pei
+  Province of Quebec             | ID: 572    | URL: quebec
+  Quebec City                    | ID: 250    | URL: quebeccity
+  Regina                         | ID: 578    | URL: regina
+  Saskatchewan                   | ID: 577    | URL: saskaychewan
+  St. Johns                      | ID: 582    | URL: stjohns
+  Toronto                        | ID: 28     | URL: toronto
+  Vancouver                      | ID: 39     | URL: vancouver
+  Windsor                        | ID: 161    | URL: windsor
+  Winnipeg                       | ID: 580    | URL: winnipeg
+  Yukon                          | ID: 574    | URL: yukon
+
+CAPE VERDE (CV)
+--------------------------------------------------------------------------------
+  All                            | ID: 467    | URL: capeverde
+
+CAYMAN ISLANDS (KY)
+--------------------------------------------------------------------------------
+  All                            | ID: 207    | URL: caymanislands
+
+CENTRAL AFRICAN REPUBLIC (CF)
+--------------------------------------------------------------------------------
+  All                            | ID: 468    | URL: centralafricanrepublic
+
+CHAD (TD)
+--------------------------------------------------------------------------------
+  All                            | ID: 469    | URL: chad
+
+CHILE (CL)
+--------------------------------------------------------------------------------
+  All                            | ID: 59     | URL: chile
+  Santiago                       | ID: 385    | URL: santiago
+
+CHINA (CN)
+--------------------------------------------------------------------------------
+  Beijing                        | ID: 191    | URL: beijing
+  Changsha                       | ID: 311    | URL: changsha
+  Chengdu                        | ID: 283    | URL: chengdu
+  Chongqing                      | ID: 332    | URL: chongqing
+  Guangzhou                      | ID: 190    | URL: guangzhou
+  Hangzhou                       | ID: 234    | URL: hangzhou
+  Hong Kong                      | ID: 71     | URL: hongkong
+  Jinan                          | ID: 445    | URL: jinan
+  Kunming                        | ID: 371    | URL: kunming
+  Macau                          | ID: 244    | URL: macau
+  Nanjing                        | ID: 281    | URL: nanjing
+  Qingdao                        | ID: 447    | URL: qingdao
+  Quanzhou                       | ID: 285    | URL: quanzhou
+  Shanghai                       | ID: 68     | URL: shanghai
+  Shenyang                       | ID: 282    | URL: shenyang
+  Shenzhen                       | ID: 361    | URL: shenzhen
+  Suzhou                         | ID: 217    | URL: suzhou
+  Tianjin                        | ID: 279    | URL: tianjin
+  Wuhan                          | ID: 280    | URL: wuhan
+  Xi'an                          | ID: 444    | URL: Xian
+  Xiamen                         | ID: 284    | URL: xiamen
+
+COLOMBIA (CO)
+--------------------------------------------------------------------------------
+  All                            | ID: 163    | URL: colombia
+  Bogotá                         | ID: 373    | URL: bogota
+  Cali                           | ID: 375    | URL: cali
+  Medellin                       | ID: 374    | URL: Medellin
+  Pereira                        | ID: 538    | URL: pereira
+
+COMOROS (KM)
+--------------------------------------------------------------------------------
+  All                            | ID: 470    | URL: comoros
+
+COSTA RICA (CR)
+--------------------------------------------------------------------------------
+  All                            | ID: 26     | URL: costarica
+
+CROATIA (HR)
+--------------------------------------------------------------------------------
+  All                            | ID: 94     | URL: croatia
+  Zagreb                         | ID: 559    | URL: zagreb
+
+CUBA (CU)
+--------------------------------------------------------------------------------
+  All                            | ID: 238    | URL: cuba
+
+CURACAO (CW)
+--------------------------------------------------------------------------------
+  All                            | ID: 334    | URL: curacao
+
+CYPRUS (CY)
+--------------------------------------------------------------------------------
+  All                            | ID: 197    | URL: cyprus
+
+CZECH REPUBLIC (CZ)
+--------------------------------------------------------------------------------
+  All                            | ID: 97     | URL: czechrepublic
+  Brno                           | ID: 676    | URL: brno
+  Prague                         | ID: 451    | URL: prague
+
+DEMOCRATIC REPUBLIC OF THE CONGO (CD)
+--------------------------------------------------------------------------------
+  All                            | ID: 424    | URL: democraticrepublicofthecongo
+
+DENMARK (DK)
+--------------------------------------------------------------------------------
+  Aarhus                         | ID: 403    | URL: aarhus
+  All                            | ID: 99     | URL: denmark
+  Copenhagen                     | ID: 402    | URL: copenhagen
+  Odense                         | ID: 515    | URL: odense
+
+DJIBOUTI (DJ)
+--------------------------------------------------------------------------------
+  All                            | ID: 514    | URL: djibouti
+
+DOMINICA (DM)
+--------------------------------------------------------------------------------
+  All                            | ID: 472    | URL: dominica
+
+DOMINICAN REPUBLIC (DO)
+--------------------------------------------------------------------------------
+  All                            | ID: 179    | URL: dominicanrepublic
+
+EAST TIMOR (TL)
+--------------------------------------------------------------------------------
+  All                            | ID: 473    | URL: democraticrepublicoftimor-leste
+
+ECUADOR (EC)
+--------------------------------------------------------------------------------
+  All                            | ID: 185    | URL: ecuador
+
+EGYPT (EG)
+--------------------------------------------------------------------------------
+  All                            | ID: 96     | URL: egypt
+
+EL SALVADOR (SV)
+--------------------------------------------------------------------------------
+  All                            | ID: 135    | URL: elsalvador
+
+EQUATORIAL GUINEA (GQ)
+--------------------------------------------------------------------------------
+  All                            | ID: 474    | URL: equatorialguinea
+
+ERITREA (ER)
+--------------------------------------------------------------------------------
+  All                            | ID: 475    | URL: eritrea
+
+ESTONIA (EE)
+--------------------------------------------------------------------------------
+  All                            | ID: 184    | URL: estonia
+  Tallinn                        | ID: 566    | URL: tallinn
+
+ESWATINI (SZ)
+--------------------------------------------------------------------------------
+  All                            | ID: 476    | URL: eswatini
+
+ETHIOPIA (ET)
+--------------------------------------------------------------------------------
+  All                            | ID: 458    | URL: ethiopia
+
+FEDERATED STATES OF MICRONESIA (FM)
+--------------------------------------------------------------------------------
+  All                            | ID: 494    | URL: federatedstatesofmicronesia
+
+FIJI (FJ)
+--------------------------------------------------------------------------------
+  All                            | ID: 456    | URL: fiji
+
+FINLAND (FI)
+--------------------------------------------------------------------------------
+  All                            | ID: 87     | URL: finland
+  Helsinki                       | ID: 407    | URL: helsinki
+
+FRANCE (FR)
+--------------------------------------------------------------------------------
+  Bordeaux                       | ID: 617    | URL: bordeaux
+  Central                        | ID: 276    | URL: central
+  Chamonix                       | ID: 616    | URL: chamonix
+  East                           | ID: 277    | URL: east
+  French Riviera                 | ID: 157    | URL: frenchriviera
+  French West Indies             | ID: 448    | URL: frenchwestindies
+  Lille                          | ID: 619    | URL: lille
+  Lyon                           | ID: 337    | URL: lyon
+  Marseille                      | ID: 338    | URL: marseille
+  Montpellier                    | ID: 339    | URL: montpellier
+  Nantes                         | ID: 536    | URL: nantes
+  Nice                           | ID: 614    | URL: nice
+  North                          | ID: 278    | URL: north
+  Paris                          | ID: 44     | URL: paris
+  Rennes                         | ID: 620    | URL: rennes
+  South East                     | ID: 156    | URL: southeast
+  South West                     | ID: 286    | URL: southwest
+  Strasbourg                     | ID: 615    | URL: strasbourg
+  Toulouse                       | ID: 618    | URL: toulouse
+  West                           | ID: 155    | URL: west
+
+GABON (GA)
+--------------------------------------------------------------------------------
+  All                            | ID: 477    | URL: gabon
+
+GAMBIA (GM)
+--------------------------------------------------------------------------------
+  All                            | ID: 425    | URL: gambia
+
+GEORGIA (GE)
+--------------------------------------------------------------------------------
+  All                            | ID: 376    | URL: georgia
+  Batumi                         | ID: 377    | URL: batumi
+  Tbilisi                        | ID: 188    | URL: tbilisi
+
+GERMANY (DE)
+--------------------------------------------------------------------------------
+  Augsburg                       | ID: 209    | URL: augsburg
+  Baden-Württemberg              | ID: 336    | URL: badenwurttemberg
+  Bavaria                        | ID: 357    | URL: bavaria
+  Berlin                         | ID: 34     | URL: berlin
+  Bielefeld                      | ID: 274    | URL: bielefeld
+  Bochum                         | ID: 298    | URL: bochum
+  Brandenburg                    | ID: 208    | URL: brandenburg
+  Bremen                         | ID: 225    | URL: bremen
+  Chemnitz                       | ID: 265    | URL: chemnitz
+  Cologne                        | ID: 143    | URL: cologne
+  Darmstadt                      | ID: 229    | URL: darmstadt
+  Dortmund / Essen               | ID: 144    | URL: dortmundessen
+  Dresden                        | ID: 150    | URL: dresden
+  Düsseldorf                     | ID: 145    | URL: dusseldorf
+  Erfurt                         | ID: 235    | URL: erfurt
+  Frankfurt                      | ID: 147    | URL: frankfurt
+  Freiburg                       | ID: 228    | URL: freiburg
+  Hamburg                        | ID: 148    | URL: hamburg
+  Hannover                       | ID: 146    | URL: hannover
+  Heidelberg                     | ID: 219    | URL: heidelberg
+  Hesse                          | ID: 354    | URL: hesse
+  Jena                           | ID: 210    | URL: jena
+  Karlsruhe                      | ID: 220    | URL: karlsruhe
+  Kassel                         | ID: 233    | URL: kassel
+  Leipzig                        | ID: 149    | URL: leipzig
+  Lower Saxony                   | ID: 358    | URL: lowersaxony
+  Mainz                          | ID: 687    | URL: mainz
+  Mannheim                       | ID: 153    | URL: mannheim
+  Mecklenburg-Vorpommern         | ID: 226    | URL: mecklenburgvorpommern
+  Munich                         | ID: 151    | URL: munich
+  Münster                        | ID: 275    | URL: munster
+  North Rhine-Westphalia         | ID: 353    | URL: northrhinewestphalia
+  Nürnberg                       | ID: 154    | URL: nurnberg
+  Regensburg                     | ID: 224    | URL: regensburg
+  Rhineland-Palatinate           | ID: 266    | URL: rhinelandpalatinate
+  Saarland                       | ID: 333    | URL: saarland
+  Saxony                         | ID: 356    | URL: saxony
+  Saxony-Anhalt                  | ID: 227    | URL: saxonyanhalt
+  Schleswig-Holstein             | ID: 273    | URL: schleswigholstein
+  Stuttgart                      | ID: 152    | URL: stuttgart
+  Thuringia                      | ID: 355    | URL: thuringia
+  Wiesbaden                      | ID: 688    | URL: wiesbaden
+
+GHANA (GH)
+--------------------------------------------------------------------------------
+  All                            | ID: 426    | URL: ghana
+
+GIBRALTAR (GI)
+--------------------------------------------------------------------------------
+  All                            | ID: 243    | URL: gibraltar
+
+GREECE (GR)
+--------------------------------------------------------------------------------
+  All                            | ID: 37     | URL: greece
+  Athens                         | ID: 549    | URL: athens
+  Crete                          | ID: 658    | URL: crete
+  Mykonos                        | ID: 659    | URL: mykonos
+  Thessaloniki                   | ID: 657    | URL: thessaloniki
+
+GRENADA (GD)
+--------------------------------------------------------------------------------
+  All                            | ID: 478    | URL: grenada
+
+GUAM (GU)
+--------------------------------------------------------------------------------
+  All                            | ID: 290    | URL: guam
+
+GUATEMALA (GT)
+--------------------------------------------------------------------------------
+  All                            | ID: 202    | URL: guatemala
+
+GUINEA (GN)
+--------------------------------------------------------------------------------
+  All                            | ID: 479    | URL: guinea
+
+GUINEA-BISSAU (GW)
+--------------------------------------------------------------------------------
+  All                            | ID: 480    | URL: guineabissau
+
+GUYANA (GY)
+--------------------------------------------------------------------------------
+  All                            | ID: 481    | URL: guyana
+
+HAITI (HT)
+--------------------------------------------------------------------------------
+  All                            | ID: 482    | URL: haiti
+
+HONDURAS (HN)
+--------------------------------------------------------------------------------
+  All                            | ID: 167    | URL: honduras
+
+HUNGARY (HU)
+--------------------------------------------------------------------------------
+  All                            | ID: 78     | URL: hungary
+  Budapest                       | ID: 449    | URL: budapest
+
+ICELAND (IS)
+--------------------------------------------------------------------------------
+  All                            | ID: 201    | URL: iceland
+
+INDIA (IN)
+--------------------------------------------------------------------------------
+  Bangalore                      | ID: 325    | URL: bangalore
+  Chennai                        | ID: 327    | URL: chennai
+  Delhi                          | ID: 324    | URL: delhi
+  Goa                            | ID: 323    | URL: goa
+  Hyderabad                      | ID: 326    | URL: hyderabad
+  Kolkata                        | ID: 372    | URL: kolkata
+  Mumbai                         | ID: 328    | URL: mumbai
+  Other regions                  | ID: 162    | URL: otherregions
+  Pune                           | ID: 329    | URL: pune
+
+INDONESIA (ID)
+--------------------------------------------------------------------------------
+  All                            | ID: 76     | URL: indonesia
+  Bali                           | ID: 543    | URL: bali
+  Jakarta                        | ID: 569    | URL: jakarta
+
+IRAN (IR)
+--------------------------------------------------------------------------------
+  All                            | ID: 206    | URL: iran
+
+IRAQ (IQ)
+--------------------------------------------------------------------------------
+  All                            | ID: 483    | URL: iraq
+
+IRELAND (IE)
+--------------------------------------------------------------------------------
+  All                            | ID: 43     | URL: ireland
+  Cork                           | ID: 387    | URL: cork
+  Dublin                         | ID: 386    | URL: dublin
+  Galway                         | ID: 389    | URL: galway
+  Limerick                       | ID: 388    | URL: limerick
+  Waterford                      | ID: 689    | URL: waterford
+
+ISRAEL (IL)
+--------------------------------------------------------------------------------
+  All                            | ID: 42     | URL: israel
+  Tel Aviv                       | ID: 413    | URL: telaviv
+
+ITALY (IT)
+--------------------------------------------------------------------------------
+  Bologna                        | ID: 350    | URL: bologna
+  Central                        | ID: 52     | URL: central
+  Florence                       | ID: 352    | URL: florence
+  Milan                          | ID: 347    | URL: milan
+  Naples                         | ID: 406    | URL: naples
+  North                          | ID: 171    | URL: north
+  Rome                           | ID: 351    | URL: rome
+  Sardinia                       | ID: 673    | URL: sardinia
+  Sicily                         | ID: 302    | URL: sicily
+  South                          | ID: 172    | URL: south
+  Turin                          | ID: 348    | URL: turin
+  Venice                         | ID: 349    | URL: venice
+
+IVORY COAST (CI)
+--------------------------------------------------------------------------------
+  All                            | ID: 423    | URL: cotedIvoire
+
+JAMAICA (JM)
+--------------------------------------------------------------------------------
+  All                            | ID: 221    | URL: jamaica
+
+JAPAN (JP)
+--------------------------------------------------------------------------------
+  Chubu                          | ID: 140    | URL: chubu
+  Chugoku                        | ID: 141    | URL: chugoku
+  Hokkaido                       | ID: 138    | URL: hokkaido
+  Kansai                         | ID: 66     | URL: kansai
+  Kanto                          | ID: 252    | URL: kanto
+  Kyoto                          | ID: 663    | URL: kyoto
+  Kyushu                         | ID: 139    | URL: kyushu
+  Okinawa                        | ID: 242    | URL: okinawa
+  Osaka                          | ID: 664    | URL: osaka
+  Shikoku                        | ID: 294    | URL: shikoku
+  Tohoku                         | ID: 254    | URL: tohoku
+  Tokyo                          | ID: 27     | URL: tokyo
+
+JORDAN (JO)
+--------------------------------------------------------------------------------
+  All                            | ID: 192    | URL: jordan
+
+KAZAKHSTAN (KZ)
+--------------------------------------------------------------------------------
+  All                            | ID: 297    | URL: kazakhstan
+
+KENYA (KE)
+--------------------------------------------------------------------------------
+  All                            | ID: 214    | URL: kenya
+  Nairobi                        | ID: 660    | URL: nairobi
+
+KIRIBATI (KI)
+--------------------------------------------------------------------------------
+  All                            | ID: 484    | URL: kiribati
+
+KOSOVO (XK)
+--------------------------------------------------------------------------------
+  All                            | ID: 362    | URL: kosovo
+
+KUWAIT (KW)
+--------------------------------------------------------------------------------
+  All                            | ID: 236    | URL: kuwait
+
+KYRGYZSTAN (KG)
+--------------------------------------------------------------------------------
+  All                            | ID: 485    | URL: kyrgyzstan
+
+LAOS (LA)
+--------------------------------------------------------------------------------
+  All                            | ID: 427    | URL: laos
+
+LATVIA (LV)
+--------------------------------------------------------------------------------
+  All                            | ID: 93     | URL: latvia
+  Riga                           | ID: 560    | URL: riga
+
+LEBANON (LB)
+--------------------------------------------------------------------------------
+  All                            | ID: 101    | URL: lebanon
+  Beirut                         | ID: 547    | URL: beirut
+
+LESOTHO (LS)
+--------------------------------------------------------------------------------
+  All                            | ID: 487    | URL: lesotho
+
+LIBERIA (LR)
+--------------------------------------------------------------------------------
+  All                            | ID: 488    | URL: liberia
+
+LIBYA (LY)
+--------------------------------------------------------------------------------
+  All                            | ID: 489    | URL: libya
+
+LIECHTENSTEIN (LI)
+--------------------------------------------------------------------------------
+  All                            | ID: 490    | URL: liechtenstein
+
+LITHUANIA (LT)
+--------------------------------------------------------------------------------
+  All                            | ID: 91     | URL: lithuania
+  Vilnius                        | ID: 561    | URL: vilnius
+
+LUXEMBOURG (LU)
+--------------------------------------------------------------------------------
+  All                            | ID: 199    | URL: luxembourg
+
+MADAGASCAR (MG)
+--------------------------------------------------------------------------------
+  All                            | ID: 428    | URL: madagascar
+
+MALAWI (MW)
+--------------------------------------------------------------------------------
+  All                            | ID: 204    | URL: malawi
+
+MALAYSIA (MY)
+--------------------------------------------------------------------------------
+  Kuala Lumpur                   | ID: 36     | URL: kualalumpur
+
+MALDIVES (MV)
+--------------------------------------------------------------------------------
+  All                            | ID: 429    | URL: maldives
+
+MALI (ML)
+--------------------------------------------------------------------------------
+  All                            | ID: 491    | URL: mali
+
+MALTA (MT)
+--------------------------------------------------------------------------------
+  All                            | ID: 164    | URL: malta
+
+MARSHALL ISLANDS (MH)
+--------------------------------------------------------------------------------
+  All                            | ID: 492    | URL: marshallislands
+
+MAURITANIA (MR)
+--------------------------------------------------------------------------------
+  All                            | ID: 493    | URL: mauritania
+
+MAURITIUS (MU)
+--------------------------------------------------------------------------------
+  All                            | ID: 304    | URL: mauritius
+
+MEXICO (MX)
+--------------------------------------------------------------------------------
+  Acapulco de Juárez             | ID: 601    | URL: acapulco
+  Aguascalientes                 | ID: 632    | URL: aguascalientes
+  Baja California                | ID: 621    | URL: bajacalifornia
+  Baja California Sur            | ID: 622    | URL: bajacaliforniasur
+  Campeche                       | ID: 649    | URL: campeche
+  Chiapas                        | ID: 648    | URL: chiapas
+  Chihuahua                      | ID: 624    | URL: chihuahua
+  Ciudad Juárez                  | ID: 600    | URL: ciudadjuarez
+  Coahuila                       | ID: 626    | URL: coahuila
+  Colima                         | ID: 636    | URL: colima
+  Durango                        | ID: 627    | URL: durango
+  Ensenada                       | ID: 682    | URL: ensenada
+  Estado de México               | ID: 643    | URL: estadodemexico
+  Guadalajara                    | ID: 522    | URL: guadalajara
+  Guanajuato                     | ID: 635    | URL: guanajuato
+  Guerrero                       | ID: 645    | URL: guerrero
+  Hidalgo                        | ID: 639    | URL: hidalgo
+  Irapuato                       | ID: 598    | URL: irapuato
+  Jalisco                        | ID: 634    | URL: jalisco
+  Mexico City                    | ID: 399    | URL: mexicocity
+  Michoacán                      | ID: 638    | URL: michoacan
+  Monterrey                      | ID: 70     | URL: monterrey
+  Morelia                        | ID: 604    | URL: morelia
+  Morelos                        | ID: 641    | URL: morelos
+  Mérida                         | ID: 603    | URL: merida
+  Nayarit                        | ID: 629    | URL: nayarit
+  Nuevo León                     | ID: 628    | URL: nuevoleon
+  Oaxaca                         | ID: 646    | URL: oaxaca
+  Oaxaca de Juárez               | ID: 599    | URL: oaxacadejuarez
+  Playa del Carmen               | ID: 684    | URL: playadelcarmen
+  Puebla                         | ID: 642    | URL: puebla
+  Puebla (city)                  | ID: 551    | URL: peublacity
+  Puerto Escondido               | ID: 525    | URL: puertoescondido
+  Puerto Vallarta                | ID: 550    | URL: puertovallarta
+  Querétaro                      | ID: 637    | URL: queretaro
+  Quintana Roo                   | ID: 651    | URL: quintanaroo
+  San José del Cabo              | ID: 602    | URL: sanjosedelcabo
+  San luis Potosi                | ID: 631    | URL: sanluispotosi
+  Santiago de Querétaro          | ID: 597    | URL: queretaro
+  Sinaloa                        | ID: 625    | URL: sinaloa
+  Sonora                         | ID: 623    | URL: sonora
+  Tabasco                        | ID: 647    | URL: tabasco
+  Tamaulipas                     | ID: 633    | URL: tamaulipas
+  Tijuana                        | ID: 524    | URL: tijuana
+  Tlaxcala                       | ID: 640    | URL: tlaxcala
+  Tulum                          | ID: 523    | URL: tulum
+  Veracruz                       | ID: 644    | URL: veracruz
+  Yucátan                        | ID: 650    | URL: yucatan
+  Zacatecas                      | ID: 630    | URL: zacatecas
+
+MOLDOVA (MD)
+--------------------------------------------------------------------------------
+  All                            | ID: 198    | URL: moldova
+
+MONACO (MC)
+--------------------------------------------------------------------------------
+  All                            | ID: 158    | URL: monaco
+
+MONGOLIA (MN)
+--------------------------------------------------------------------------------
+  All                            | ID: 212    | URL: mongolia
+
+MONTENEGRO (ME)
+--------------------------------------------------------------------------------
+  All                            | ID: 193    | URL: montenegro
+  Podgorica                      | ID: 671    | URL: podgorica
+
+MOROCCO (MA)
+--------------------------------------------------------------------------------
+  All                            | ID: 173    | URL: morocco
+
+MOZAMBIQUE (MZ)
+--------------------------------------------------------------------------------
+  All                            | ID: 305    | URL: mozambique
+
+MYANMAR (MM)
+--------------------------------------------------------------------------------
+  All                            | ID: 335    | URL: myanmar
+
+NAMIBIA (NA)
+--------------------------------------------------------------------------------
+  All                            | ID: 495    | URL: namibia
+
+NAURU (NR)
+--------------------------------------------------------------------------------
+  All                            | ID: 496    | URL: nauru
+
+NEPAL (NP)
+--------------------------------------------------------------------------------
+  All                            | ID: 287    | URL: nepal
+
+NETHERLANDS (NL)
+--------------------------------------------------------------------------------
+  All                            | ID: 176    | URL: Netherlands
+  Amsterdam                      | ID: 29     | URL: amsterdam
+  Eindhoven                      | ID: 177    | URL: eindhoven
+  Nijmegen                       | ID: 672    | URL: nijmegen
+  Rotterdam                      | ID: 174    | URL: rotterdam
+  The Hague                      | ID: 178    | URL: thehague
+  Utrecht                        | ID: 175    | URL: utrecht
+
+NEW ZEALAND (NZ)
+--------------------------------------------------------------------------------
+  Auckland                       | ID: 540    | URL: auckland
+  Christchurch                   | ID: 542    | URL: christchurch
+  North Island                   | ID: 589    | URL: northisland
+  South Island                   | ID: 49     | URL: Southisland
+  Wellington                     | ID: 541    | URL: wellington
+
+NICARAGUA (NU)
+--------------------------------------------------------------------------------
+  All                            | ID: 249    | URL: nicaragua
+
+NIGER (NE)
+--------------------------------------------------------------------------------
+  All                            | ID: 497    | URL: niger
+
+NIGERIA (NG)
+--------------------------------------------------------------------------------
+  All                            | ID: 303    | URL: nigeria
+  Lagos                          | ID: 557    | URL: lagos
+
+NORTH MACEDONIA (MK)
+--------------------------------------------------------------------------------
+  All                            | ID: 498    | URL: northmacedonia
+  Skopje                         | ID: 670    | URL: skopje
+
+NORWAY (NO)
+--------------------------------------------------------------------------------
+  All                            | ID: 57     | URL: norway
+  Bergen                         | ID: 409    | URL: bergen
+  Oslo                           | ID: 408    | URL: oslo
+
+OMAN (OM)
+--------------------------------------------------------------------------------
+  All                            | ID: 215    | URL: oman
+
+PAKISTAN (PK)
+--------------------------------------------------------------------------------
+  All                            | ID: 166    | URL: pakistan
+
+PALAU (PW)
+--------------------------------------------------------------------------------
+  All                            | ID: 499    | URL: palau
+
+PALESTINE (PS)
+--------------------------------------------------------------------------------
+  All                            | ID: 368    | URL: palestine
+
+PANAMA (PA)
+--------------------------------------------------------------------------------
+  All                            | ID: 92     | URL: panama
+
+PAPUA NEW GUINEA (PG)
+--------------------------------------------------------------------------------
+  All                            | ID: 500    | URL: papuanewguinea
+
+PARAGUAY (PY)
+--------------------------------------------------------------------------------
+  All                            | ID: 180    | URL: paraguay
+
+PERU (PE)
+--------------------------------------------------------------------------------
+  All                            | ID: 86     | URL: peru
+
+PHILIPPINES (PH)
+--------------------------------------------------------------------------------
+  All                            | ID: 168    | URL: philippines
+  Manila                         | ID: 565    | URL: manila
+
+POLAND (PL)
+--------------------------------------------------------------------------------
+  All                            | ID: 69     | URL: poland
+  Gdansk                         | ID: 667    | URL: gdansk
+  Krakow                         | ID: 455    | URL: krakow
+  Lodz                           | ID: 677    | URL: lodz
+  Poznan                         | ID: 666    | URL: poznan
+  Warsaw                         | ID: 454    | URL: warsaw
+  Wroclaw                        | ID: 668    | URL: wroclaw
+
+PORTUGAL (PT)
+--------------------------------------------------------------------------------
+  Algarve                        | ID: 365    | URL: algarve
+  All                            | ID: 366    | URL: portugalall
+  Faro                           | ID: 610    | URL: faro
+  Lagos                          | ID: 611    | URL: lagospt
+  Lisbon                         | ID: 53     | URL: lisbon
+  Porto                          | ID: 364    | URL: porto
+
+PUERTO RICO (PR)
+--------------------------------------------------------------------------------
+  All                            | ID: 181    | URL: puertorico
+
+QATAR (QA)
+--------------------------------------------------------------------------------
+  All                            | ID: 203    | URL: qatar
+
+REPUBLIC OF THE CONGO (CG)
+--------------------------------------------------------------------------------
+  All                            | ID: 471    | URL: republicofthecongo
+
+ROMANIA (RO)
+--------------------------------------------------------------------------------
+  All                            | ID: 50     | URL: romania
+  Bucharest                      | ID: 381    | URL: bucharest
+  Cluj-Napoca                    | ID: 382    | URL: cluj-napoca
+  Iasi                           | ID: 383    | URL: iasi
+  Timisoara                      | ID: 546    | URL: timisoara
+
+RUSSIA (RU)
+--------------------------------------------------------------------------------
+  Krasnodar                      | ID: 237    | URL: krasnodar
+  Moscow                         | ID: 88     | URL: moscow
+  Rest of Russia                 | ID: 232    | URL: restofrussia
+  Saint Petersburg               | ID: 231    | URL: saintpetersburg
+
+RWANDA (RW)
+--------------------------------------------------------------------------------
+  All                            | ID: 369    | URL: rwanda
+
+SAINT KITTS AND NEVIS (KN)
+--------------------------------------------------------------------------------
+  All                            | ID: 432    | URL: saintkittsandnevis
+
+SAINT LUCIA (LC)
+--------------------------------------------------------------------------------
+  All                            | ID: 431    | URL: saintlucia
+
+SAINT MARTIN (RN)
+--------------------------------------------------------------------------------
+  All                            | ID: 363    | URL: saintmartin
+
+SAMOA (WS)
+--------------------------------------------------------------------------------
+  All                            | ID: 416    | URL: samoa
+
+SAN MARINO (SM)
+--------------------------------------------------------------------------------
+  All                            | ID: 501    | URL: sanmarino
+
+SAO TOME AND PRINCIPE (ST)
+--------------------------------------------------------------------------------
+  All                            | ID: 502    | URL: saotomeandprincipe
+
+SAUDI ARABIA (SA)
+--------------------------------------------------------------------------------
+  All                            | ID: 299    | URL: saudiarabia
+
+SENEGAL (sn)
+--------------------------------------------------------------------------------
+  All                            | ID: 370    | URL: senegal
+
+SERBIA (RS)
+--------------------------------------------------------------------------------
+  All                            | ID: 77     | URL: serbia
+  Belgrade                       | ID: 562    | URL: belgrade
+
+SEYCHELLES (SC)
+--------------------------------------------------------------------------------
+  All                            | ID: 222    | URL: seychelles
+
+SIERRA LEONE (SL)
+--------------------------------------------------------------------------------
+  All                            | ID: 503    | URL: sierraleone
+
+SINGAPORE (SG)
+--------------------------------------------------------------------------------
+  All                            | ID: 51     | URL: singapore
+
+SLOVAKIA (SK)
+--------------------------------------------------------------------------------
+  All                            | ID: 98     | URL: slovakia
+  Bratislava                     | ID: 568    | URL: bratislava
+
+SLOVENIA (SI)
+--------------------------------------------------------------------------------
+  All                            | ID: 142    | URL: slovenia
+  Ljubljana                      | ID: 563    | URL: ljubljana
+
+SOLOMON ISLANDS (SB)
+--------------------------------------------------------------------------------
+  All                            | ID: 504    | URL: solomonisland
+
+SOMALIA (SO)
+--------------------------------------------------------------------------------
+  All                            | ID: 457    | URL: somalia
+
+SOUTH AFRICA (ZA)
+--------------------------------------------------------------------------------
+  All                            | ID: 260    | URL: southafrica
+  Cape Town                      | ID: 100    | URL: capetown
+  Durban                         | ID: 259    | URL: durban
+  Johannesburg                   | ID: 258    | URL: johannesburg
+  Pretoria                       | ID: 548    | URL: pretoria
+
+SOUTH KOREA (KR)
+--------------------------------------------------------------------------------
+  All                            | ID: 75     | URL: southkorea
+  Busan                          | ID: 665    | URL: busan
+  Seoul                          | ID: 537    | URL: seoul
+
+SOUTH SUDAN (SS)
+--------------------------------------------------------------------------------
+  All                            | ID: 415    | URL: southsudan
+
+SPAIN (ES)
+--------------------------------------------------------------------------------
+  Alicante                       | ID: 613    | URL: alicante
+  Barcelona                      | ID: 20     | URL: barcelona
+  Benidorm                       | ID: 609    | URL: benidorm
+  Bilbao                         | ID: 612    | URL: bilbao
+  Canary Islands                 | ID: 367    | URL: canaryislands
+  East                           | ID: 160    | URL: east
+  Ibiza                          | ID: 25     | URL: ibiza
+  Madrid                         | ID: 41     | URL: madrid
+  Malaga                         | ID: 608    | URL: malaga
+  Mallorca                       | ID: 661    | URL: Mallorca
+  North                          | ID: 170    | URL: north
+  South                          | ID: 169    | URL: south
+  Valencia                       | ID: 607    | URL: valencia
+
+SRI LANKA (LK)
+--------------------------------------------------------------------------------
+  All                            | ID: 289    | URL: srilanka
+
+STREAMLAND (00)
+--------------------------------------------------------------------------------
+  All                            | ID: 463    | URL: streamland
+
+SUDAN (SD)
+--------------------------------------------------------------------------------
+  All                            | ID: 414    | URL: sudan
+
+SURINAME (SR)
+--------------------------------------------------------------------------------
+  All                            | ID: 505    | URL: suriname
+
+SWEDEN (SE)
+--------------------------------------------------------------------------------
+  All                            | ID: 58     | URL: sweden
+  Gothenburg                     | ID: 397    | URL: othenburg
+  Malmo                          | ID: 398    | URL: malmo
+  Stockholm                      | ID: 396    | URL: stockholm
+
+SWITZERLAND (CH)
+--------------------------------------------------------------------------------
+  All                            | ID: 60     | URL: switzerland
+  Basel                          | ID: 391    | URL: basel
+  Bern                           | ID: 394    | URL: bern
+  Geneva                         | ID: 392    | URL: geneva
+  Lausanne                       | ID: 393    | URL: lausanne
+  Zurich                         | ID: 390    | URL: zurich
+
+SYRIA (SY)
+--------------------------------------------------------------------------------
+  All                            | ID: 506    | URL: syria
+
+TAIWAN (TW)
+--------------------------------------------------------------------------------
+  All                            | ID: 55     | URL: taiwan
+  Taipei                         | ID: 412    | URL: taipei
+
+TAJIKISTAN (TJ)
+--------------------------------------------------------------------------------
+  All                            | ID: 452    | URL: all
+
+TANZANIA (TZ)
+--------------------------------------------------------------------------------
+  All                            | ID: 271    | URL: tanzania
+
+THAILAND (TH)
+--------------------------------------------------------------------------------
+  All                            | ID: 67     | URL: thailand
+  Bangkok                        | ID: 453    | URL: bangkok
+
+TOGO (TG)
+--------------------------------------------------------------------------------
+  All                            | ID: 507    | URL: togo
+
+TONGA (TO)
+--------------------------------------------------------------------------------
+  All                            | ID: 508    | URL: tonga
+
+TRINIDAD AND TOBAGO (TT)
+--------------------------------------------------------------------------------
+  All                            | ID: 442    | URL: trinidadandtobago
+
+TUNISIA (TN)
+--------------------------------------------------------------------------------
+  All                            | ID: 196    | URL: tunisia
+
+TURKEY (TK)
+--------------------------------------------------------------------------------
+  All                            | ID: 378    | URL: turkey
+  Ankara                         | ID: 379    | URL: ankara
+  Istanbul                       | ID: 73     | URL: istanbul
+  Izmir                          | ID: 380    | URL: izmir
+
+TURKMENISTAN (TM)
+--------------------------------------------------------------------------------
+  All                            | ID: 509    | URL: turkmenistan
+
+TUVALU (TV)
+--------------------------------------------------------------------------------
+  All                            | ID: 510    | URL: tuvalu
+
+UGANDA (UG)
+--------------------------------------------------------------------------------
+  All                            | ID: 306    | URL: uganda
+
+UKRAINE (UA)
+--------------------------------------------------------------------------------
+  All                            | ID: 165    | URL: ukraine
+  Kyiv                           | ID: 517    | URL: kyiv
+
+UNITED ARAB EMIRATES (AE)
+--------------------------------------------------------------------------------
+  Abu Dhabi                      | ID: 213    | URL: abudhabi
+  Dubai                          | ID: 136    | URL: dubai
+
+UNITED KINGDOM (UK)
+--------------------------------------------------------------------------------
+  Aberdeen                       | ID: 342    | URL: aberdeen
+  Belfast                        | ID: 534    | URL: belfast
+  Birmingham                     | ID: 516    | URL: birmingham
+  Brighton                       | ID: 535    | URL: brighton
+  Bristol                        | ID: 446    | URL: bristol
+  Cardiff                        | ID: 518    | URL: cardiff
+  Dundee                         | ID: 539    | URL: dundee
+  Edinburgh                      | ID: 341    | URL: edinburgh
+  Glasgow                        | ID: 340    | URL: glasgow
+  Leeds                          | ID: 346    | URL: leeds
+  Liverpool                      | ID: 343    | URL: liverpool
+  London                         | ID: 13     | URL: london
+  Manchester                     | ID: 344    | URL: manchester
+  Midlands                       | ID: 14     | URL: midlands
+  Newcastle                      | ID: 345    | URL: newcastle
+  North                          | ID: 16     | URL: north
+  Northern Ireland               | ID: 35     | URL: northernireland
+  Nottingham                     | ID: 544    | URL: nottingham
+  Portsmouth                     | ID: 686    | URL: portsmouth
+  Scotland                       | ID: 30     | URL: scotland
+  Sheffield                      | ID: 520    | URL: sheffield
+  South + East                   | ID: 15     | URL: southeast
+  Southampton                    | ID: 685    | URL: southampton
+  West + Wales                   | ID: 24     | URL: westwales
+
+UNITED STATES OF AMERICA (US)
+--------------------------------------------------------------------------------
+  Alabama                        | ID: 108    | URL: alabama
+  Alaska                         | ID: 109    | URL: alaska
+  Arizona                        | ID: 102    | URL: arizona
+  Arkansas                       | ID: 110    | URL: arkansas
+  Atlanta                        | ID: 532    | URL: atlanta
+  Austin                         | ID: 321    | URL: austin
+  Baltimore                      | ID: 526    | URL: baltimore
+  Boston                         | ID: 530    | URL: boston
+  Buffalo/Rochester              | ID: 443    | URL: buffalorochester
+  California                     | ID: 308    | URL: california
+  Charleston                     | ID: 655    | URL: charleston
+  Charlotte                      | ID: 652    | URL: charlotte
+  Chicago                        | ID: 17     | URL: chicago
+  Cleveland                      | ID: 529    | URL: cleveland
+  Colorado                       | ID: 82     | URL: colorado
+  Columbus                       | ID: 564    | URL: columbus
+  Connecticut                    | ID: 111    | URL: connecticut
+  Dallas/Fort Worth              | ID: 319    | URL: dallasfortworth
+  Delaware                       | ID: 112    | URL: delaware
+  Denver                         | ID: 519    | URL: denver
+  Detroit                        | ID: 19     | URL: detroit
+  El Paso                        | ID: 322    | URL: elpaso
+  Fire Island                    | ID: 680    | URL: fireisland
+  Florida                        | ID: 317    | URL: florida
+  Georgia                        | ID: 64     | URL: georgia
+  Greensboro                     | ID: 654    | URL: Greensboro
+  Hawaii                         | ID: 133    | URL: hawaii
+  Houston                        | ID: 63     | URL: houston
+  Idaho                          | ID: 113    | URL: idaho
+  Illinois                       | ID: 359    | URL: illinois
+  Indiana                        | ID: 85     | URL: indiana
+  Inland Empire                  | ID: 678    | URL: inlandempire
+  Iowa                           | ID: 114    | URL: iowa
+  Jacksonville                   | ID: 314    | URL: jacksonville
+  Kansas                         | ID: 90     | URL: kansas
+  Kentucky                       | ID: 115    | URL: kentucky
+  Las Vegas                      | ID: 527    | URL: lasvegas
+  Los Angeles                    | ID: 23     | URL: losangeles
+  Louisiana                      | ID: 65     | URL: louisiana
+  Madison                        | ID: 594    | URL: madison
+  Maine                          | ID: 116    | URL: maine
+  Maryland                       | ID: 117    | URL: maryland
+  Massachusetts                  | ID: 79     | URL: massachusetts
+  Memphis                        | ID: 683    | URL: memphis
+  Miami                          | ID: 38     | URL: miami
+  Michigan                       | ID: 360    | URL: michigan
+  Milwaukee                      | ID: 593    | URL: milwaukee
+  Minneapolis/St Paul            | ID: 590    | URL: minneapolis
+  Minnesota                      | ID: 81     | URL: minnesota
+  Mississippi                    | ID: 103    | URL: mississippi
+  Missouri                       | ID: 118    | URL: missouri
+  Montana                        | ID: 119    | URL: montana
+  Nashville                      | ID: 653    | URL: nashville
+  Nebraska                       | ID: 120    | URL: nebraska
+  Nevada                         | ID: 47     | URL: nevada
+  New Hampshire                  | ID: 121    | URL: newhampshire
+  New Jersey                     | ID: 48     | URL: newjersey
+  New Mexico                     | ID: 122    | URL: newmexico
+  New Orleans                    | ID: 606    | URL: neworleans
+  New York City                  | ID: 8      | URL: newyorkcity
+  New York State                 | ID: 605    | URL: newyorkstate
+  North Carolina                 | ID: 123    | URL: northcarolina
+  North Dakota                   | ID: 124    | URL: northdakota
+  Ohio                           | ID: 84     | URL: ohio
+  Oklahoma                       | ID: 104    | URL: oklahoma
+  Orange County                  | ID: 679    | URL: orangecounty
+  Oregon                         | ID: 410    | URL: oregon
+  Orlando                        | ID: 315    | URL: orlando
+  Palm Springs                   | ID: 596    | URL: palmsprings
+  Pennsylvania                   | ID: 80     | URL: pennsylvania
+  Philadelphia                   | ID: 528    | URL: philadelphia
+  Phoenix                        | ID: 591    | URL: phoenix
+  Pittsburgh                     | ID: 531    | URL: pittsburgh
+  Portland                       | ID: 125    | URL: portland
+  Provincetown                   | ID: 681    | URL: provincetown
+  Rhode Island                   | ID: 127    | URL: rhodeisland
+  Richmond                       | ID: 553    | URL: richmond
+  Sacramento                     | ID: 310    | URL: sacramento
+  Salt Lake City                 | ID: 592    | URL: saltlakecity
+  San Antonio                    | ID: 320    | URL: sanantonio
+  San Diego                      | ID: 309    | URL: sandiego
+  San Francisco/Oakland          | ID: 218    | URL: sanfrancisco
+  San Jose                       | ID: 552    | URL: sanjose
+  Seattle                        | ID: 46     | URL: seattle
+  South Carolina                 | ID: 105    | URL: southcarolina
+  South Dakota                   | ID: 128    | URL: southdakota
+  Tampa Bay                      | ID: 316    | URL: tampabay
+  Tennessee                      | ID: 72     | URL: tennessee
+  Texas                          | ID: 318    | URL: texas
+  Tucson                         | ID: 595    | URL: tucson
+  Utah                           | ID: 106    | URL: utah
+  Vermont                        | ID: 129    | URL: vermont
+  Virginia                       | ID: 130    | URL: virginia
+  Washington DC                  | ID: 22     | URL: washingtondc
+  Washington State               | ID: 411    | URL: washingtonstate
+  West Virginia                  | ID: 131    | URL: westvirginia
+  Wilmington                     | ID: 656    | URL: wilmington
+  Wisconsin                      | ID: 107    | URL: wisconsin
+  Wyoming                        | ID: 132    | URL: wyoming
+
+URUGUAY (UY)
+--------------------------------------------------------------------------------
+  All                            | ID: 194    | URL: uruguay
+  Montevideo                     | ID: 384    | URL: montevideo
+
+UZBEKISTAN (UZ)
+--------------------------------------------------------------------------------
+  All                            | ID: 216    | URL: uzbekistan
+
+VANUATU (VU)
+--------------------------------------------------------------------------------
+  All                            | ID: 511    | URL: vanuatu
+
+VENEZUELA (VE)
+--------------------------------------------------------------------------------
+  All                            | ID: 182    | URL: venezuela
+
+VIETNAM (VN)
+--------------------------------------------------------------------------------
+  All                            | ID: 205    | URL: vietnam
+  Hanoi                          | ID: 556    | URL: hanoi
+  Ho Chi Minh City               | ID: 554    | URL: hochiminhcity
+
+ZAMBIA (ZM)
+--------------------------------------------------------------------------------
+  All                            | ID: 465    | URL: zambia
+
+ZIMBABWE (ZW)
+--------------------------------------------------------------------------------
+  All                            | ID: 313    | URL: zimbabwe

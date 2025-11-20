@@ -1,0 +1,240 @@
+Fetching all countries from Resident Advisor...
+Found 202 countries
+
+Now fetching areas for each country (this may take a while)...
+
+[1/202] Afghanistan (AF): 34 areas
+[2/202] Albania (AL): 34 areas
+[3/202] Algeria (DZ): 34 areas
+[4/202] Andorra (AD): 34 areas
+[5/202] Angola (AO): 34 areas
+[6/202] Antigua and Barbuda (AG): 34 areas
+[7/202] Argentina (AR): 34 areas
+[8/202] Armenia (AM): 34 areas
+[9/202] Australia (AU): 34 areas
+[10/202] Austria (AT): 34 areas
+[11/202] Azerbaijan (AZ): 34 areas
+[12/202] Bahamas (BS): 34 areas
+[13/202] Bahrain (BA): 34 areas
+[14/202] Bangladesh (BD): 34 areas
+[15/202] Barbados (BB): 34 areas
+[16/202] Belarus (BY): 34 areas
+[17/202] Belgium (BE): 34 areas
+[18/202] Belize (BH): 34 areas
+[19/202] Benin (BJ): 34 areas
+[20/202] Bermuda (BM): 34 areas
+[21/202] Bhutan (BT): 34 areas
+[22/202] Bolivia (BO): 34 areas
+[23/202] Bosnia and Herzegovina (BIH): 34 areas
+[24/202] Botswana (BW): 34 areas
+[25/202] Brazil (BR): 34 areas
+[26/202] British Virgin Islands (VG): 34 areas
+[27/202] Brunei (BN): 34 areas
+[28/202] Bulgaria (BG): 34 areas
+[29/202] Burkina Faso (BF): 34 areas
+[30/202] Burundi (BI): 34 areas
+[31/202] Cambodia (KH): 34 areas
+[32/202] Cameroon (CM): 34 areas
+[33/202] Canada (CA): 34 areas
+[34/202] Cape Verde (CV): 34 areas
+[35/202] Cayman Islands (KY): 34 areas
+[36/202] Central African Republic (CF): 34 areas
+[37/202] Chad (TD): 34 areas
+[38/202] Chile (CL): 34 areas
+[39/202] China (CN): 34 areas
+[40/202] Colombia (CO): 34 areas
+[41/202] Comoros (KM): 34 areas
+[42/202] Costa Rica (CR): 34 areas
+[43/202] Croatia (HR): 34 areas
+[44/202] Cuba (CU): 34 areas
+[45/202] Curacao (CW): 34 areas
+[46/202] Cyprus (CY): 34 areas
+[47/202] Czech Republic (CZ): 34 areas
+[48/202] Democratic Republic of the Congo (CD): 34 areas
+[49/202] Denmark (DK): 34 areas
+[50/202] Djibouti (DJ): 34 areas
+[51/202] Dominica (DM): 34 areas
+[52/202] Dominican Republic (DO): 34 areas
+[53/202] East Timor (TL): 34 areas
+[54/202] Ecuador (EC): 34 areas
+[55/202] Egypt (EG): 34 areas
+[56/202] El Salvador (SV): 34 areas
+[57/202] Equatorial Guinea (GQ): 34 areas
+[58/202] Eritrea (ER): 34 areas
+[59/202] Estonia (EE): 34 areas
+[60/202] Eswatini (SZ): 34 areas
+[61/202] Ethiopia (ET): 34 areas
+[62/202] Federated States of Micronesia (FM): 34 areas
+[63/202] Fiji (FJ): 34 areas
+[64/202] Finland (FI): 34 areas
+[65/202] France (FR): 34 areas
+[66/202] Gabon (GA): 34 areas
+[67/202] Gambia (GM): 34 areas
+[68/202] Georgia (GE): 34 areas
+[69/202] Germany (DE): 34 areas
+[70/202] Ghana (GH): 34 areas
+[71/202] Gibraltar (GI): 34 areas
+[72/202] Greece (GR): 34 areas
+[73/202] Grenada (GD): 34 areas
+[74/202] Guam (GU): 34 areas
+[75/202] Guatemala (GT): 34 areas
+[76/202] Guinea (GN): 34 areas
+[77/202] Guinea-Bissau (GW): 34 areas
+[78/202] Guyana (GY): 34 areas
+[79/202] Haiti (HT): 34 areas
+[80/202] Honduras (HN): 34 areas
+[81/202] Hungary (HU): 34 areas
+[82/202] Iceland (IS): 34 areas
+[83/202] India (IN): 34 areas
+[84/202] Indonesia (ID): 34 areas
+[85/202] Iran (IR): 34 areas
+[86/202] Iraq (IQ): 34 areas
+[87/202] Ireland (IE): 34 areas
+[88/202] Israel (IL): 34 areas
+[89/202] Italy (IT): 34 areas
+[90/202] Ivory Coast (CI): 34 areas
+[91/202] Jamaica (JM): 34 areas
+[92/202] Japan (JP): 34 areas
+[93/202] Jordan (JO): 34 areas
+[94/202] Kazakhstan (KZ): 34 areas
+[95/202] Kenya (KE): 34 areas
+[96/202] Kiribati (KI): 34 areas
+[97/202] Kosovo (XK): 34 areas
+[98/202] Kuwait (KW): 34 areas
+[99/202] Kyrgyzstan (KG): 34 areas
+[100/202] Laos (LA): 34 areas
+[101/202] Latvia (LV): 34 areas
+[102/202] Lebanon (LB): 34 areas
+[103/202] Lesotho (LS): 34 areas
+[104/202] Liberia (LR): 34 areas
+[105/202] Libya (LY): 34 areas
+[106/202] Liechtenstein (LI): 34 areas
+[107/202] Lithuania (LT): 34 areas
+[108/202] Luxembourg (LU): 34 areas
+[109/202] Madagascar (MG): 34 areas
+[110/202] Malawi (MW): 34 areas
+[111/202] Malaysia (MY): 34 areas
+[112/202] Maldives (MV): 34 areas
+[113/202] Mali (ML): 34 areas
+[114/202] Malta (MT): 34 areas
+[115/202] Marshall Islands (MH): 34 areas
+[116/202] Mauritania (MR): 34 areas
+[117/202] Mauritius (MU): 34 areas
+[118/202] Mexico (MX): 34 areas
+[119/202] Moldova (MD): 34 areas
+[120/202] Monaco (MC): 34 areas
+[121/202] Mongolia (MN): 34 areas
+[122/202] Montenegro (ME): 34 areas
+[123/202] Morocco (MA): 34 areas
+[124/202] Mozambique (MZ): 34 areas
+[125/202] Myanmar (MM): 34 areas
+[126/202] Namibia (NA): 34 areas
+[127/202] Nauru (NR): 34 areas
+[128/202] Nepal (NP): 34 areas
+[129/202] Netherlands (NL): 34 areas
+[130/202] New Zealand (NZ): 34 areas
+[131/202] Nicaragua (NU): 34 areas
+[132/202] Niger (NE): 34 areas
+[133/202] Nigeria (NG): 34 areas
+[134/202] North Macedonia (MK): 34 areas
+[135/202] Norway (NO): 34 areas
+[136/202] Oman (OM): 34 areas
+[137/202] Pakistan (PK): 34 areas
+[138/202] Palau (PW): 34 areas
+[139/202] Palestine (PS): 34 areas
+[140/202] Panama (PA): 34 areas
+[141/202] Papua New Guinea (PG): 34 areas
+[142/202] Paraguay (PY): 34 areas
+[143/202] Peru (PE): 34 areas
+[144/202] Philippines (PH): 34 areas
+[145/202] Poland (PL): 34 areas
+[146/202] Portugal (PT): 34 areas
+[147/202] Puerto Rico (PR): 34 areas
+[148/202] Qatar (QA): 34 areas
+[149/202] Republic of the Congo (CG): 34 areas
+[150/202] Romania (RO): 34 areas
+[151/202] Russia (RU): 34 areas
+[152/202] Rwanda (RW): 34 areas
+[153/202] Saint Kitts and Nevis (KN): 34 areas
+[154/202] Saint Lucia (LC): 34 areas
+[155/202] Saint Martin (RN): 34 areas
+[156/202] Samoa (WS): 34 areas
+[157/202] San Marino (SM): 34 areas
+[158/202] Sao Tome and Principe (ST): 34 areas
+[159/202] Saudi Arabia (SA): 34 areas
+[160/202] Senegal (sn): 34 areas
+[161/202] Serbia (RS): 34 areas
+[162/202] Seychelles (SC): 34 areas
+[163/202] Sierra Leone (SL): 34 areas
+[164/202] Singapore (SG): 34 areas
+[165/202] Slovakia (SK): 34 areas
+[166/202] Slovenia (SI): 34 areas
+[167/202] Solomon Islands (SB): 34 areas
+[168/202] Somalia (SO): 34 areas
+[169/202] South Africa (ZA): 34 areas
+[170/202] South Korea (KR): 34 areas
+[171/202] South Sudan (SS): 34 areas
+[172/202] Spain (ES): 34 areas
+[173/202] Sri Lanka (LK): 34 areas
+[174/202] Streamland (00): 34 areas
+[175/202] Sudan (SD): 34 areas
+[176/202] Suriname (SR): 34 areas
+[177/202] Sweden (SE): 34 areas
+[178/202] Switzerland (CH): 34 areas
+[179/202] Syria (SY): 34 areas
+[180/202] Taiwan (TW): 34 areas
+[181/202] Tajikistan (TJ): 34 areas
+[182/202] Tanzania (TZ): 34 areas
+[183/202] Thailand (TH): 34 areas
+[184/202] Togo (TG): 34 areas
+[185/202] Tonga (TO): 34 areas
+[186/202] Trinidad and Tobago (TT): 34 areas
+[187/202] Tunisia (TN): 34 areas
+[188/202] Turkey (TK): 34 areas
+[189/202] Turkmenistan (TM): 34 areas
+[190/202] Tuvalu (TV): 34 areas
+[191/202] Uganda (UG): 34 areas
+[192/202] Ukraine (UA): 34 areas
+[193/202] United Arab Emirates (AE): 34 areas
+[194/202] United Kingdom (UK): 34 areas
+[195/202] United States of America (US): 34 areas
+[196/202] Uruguay (UY): 34 areas
+[197/202] Uzbekistan (UZ): 34 areas
+[198/202] Vanuatu (VU): 34 areas
+[199/202] Venezuela (VE): 34 areas
+[200/202] Vietnam (VN): 34 areas
+[201/202] Zambia (ZM): 34 areas
+[202/202] Zimbabwe (ZW): 34 areas
+
+================================================================================
+Fetching complete!
+================================================================================
+
+================================================================================
+SUCCESS: Found 6868 locations across 19 countries
+================================================================================
+
+Saved to:
+  - all_locations.json (complete JSON data)
+  - all_locations.txt (organized by country)
+
+Countries with areas (19):
+  Australia: 404 locations
+  Belgium: 202 locations
+  Canada: 202 locations
+  Croatia: 202 locations
+  Denmark: 202 locations
+  France: 202 locations
+  Georgia: 202 locations
+  Germany: 404 locations
+  Hungary: 202 locations
+  Italy: 404 locations
+  Latvia: 202 locations
+  Netherlands: 202 locations
+  Portugal: 202 locations
+  Serbia: 202 locations
+  Spain: 808 locations
+  Switzerland: 202 locations
+  United Kingdom: 1212 locations
+  United States of America: 1010 locations
+  Vietnam: 202 locations

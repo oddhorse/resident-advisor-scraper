@@ -5,10 +5,10 @@ import sys
 import argparse
 from datetime import datetime, timedelta
 
-URL = "https://de.ra.co/graphql"
+URL = "https://ra.co/graphql"
 HEADERS = {
     "Content-Type": "application/json",
-    "Referer": "https://de.ra.co/events/de/",
+    "Referer": "https://ra.co/events/",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0",
 }
 

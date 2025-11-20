@@ -17,10 +17,15 @@ for filename in os.listdir(events_path):
             if not file_exists:
                 with open(csv_path, "w", newline="", encoding="utf-8") as csv_file:
                     fieldnames = ["event_id", "area", "venue", "address", "venue_url",
+                                  "latitude", "longitude", "timezone",
                                   "event_name", "event_date", "start_time", "end_time", "event_url",
-                                  "promoters", "promoter_url", "interested", "ticket_category",
-                                  "ticket_price", "lineup", "minimum_age", "genre", "information",
-                                  "event_admin", "website_url"]
+                                  "poster_front", "poster_back",
+                                  "promoters", "promoter_url", "artists", "artist_url",
+                                  "interested", "ticket_category", "ticket_price",
+                                  "lineup", "minimum_age", "genre", "information",
+                                  "event_admin", "website_url", "player_links",
+                                  "is_festival", "date_posted", "date_updated",
+                                  "pick_blurb", "pick_author"]
                     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
                     writer.writeheader()
 
@@ -43,13 +48,20 @@ for filename in os.listdir(events_path):
                                 "venue": event_data.get("venue"),
                                 "address": event_data.get("address"),
                                 "venue_url": event_data.get("venue_url"),
+                                "latitude": event_data.get("latitude"),
+                                "longitude": event_data.get("longitude"),
+                                "timezone": event_data.get("timezone"),
                                 "event_name": event_data.get("event_name"),
                                 "event_date": event_data.get("event_date"),
                                 "start_time": event_data.get("start_time"),
                                 "end_time": event_data.get("end_time"),
                                 "event_url": event_data.get("event_url"),
+                                "poster_front": event_data.get("poster_front"),
+                                "poster_back": event_data.get("poster_back"),
                                 "promoters": event_data.get("promoters"),
                                 "promoter_url": event_data.get("promoter_url"),
+                                "artists": event_data.get("artists"),
+                                "artist_url": event_data.get("artist_url"),
                                 "interested": event_data.get("interested"),
                                 "ticket_category": event_data.get("ticket_category"),
                                 "ticket_price": event_data.get("ticket_price"),
@@ -59,6 +71,12 @@ for filename in os.listdir(events_path):
                                 "information": event_data.get("information"),
                                 "event_admin": event_data.get("event_admin"),
                                 "website_url": event_data.get("website_url"),
+                                "player_links": event_data.get("player_links"),
+                                "is_festival": event_data.get("is_festival"),
+                                "date_posted": event_data.get("date_posted"),
+                                "date_updated": event_data.get("date_updated"),
+                                "pick_blurb": event_data.get("pick_blurb"),
+                                "pick_author": event_data.get("pick_author"),
                             })
                     else:
                         print(f"Warning: Scraped data for {event_id} does not exist.")

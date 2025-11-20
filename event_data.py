@@ -1,10 +1,10 @@
 import requests, json, argparse, re, csv
 from datetime import datetime
 
-URL = "https://de.ra.co/graphql"
+URL = "https://ra.co/graphql"
 HEADERS = {
     "Content-Type": "application/json",
-    "Referer": "https://de.ra.co/events/",
+    "Referer": "https://ra.co/events/",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0",
 }
 
@@ -62,39 +62,88 @@ class EventFetcher:
 
             return formatted_time
 
+        # Extract poster URLs from images array
+        images = event.get("images", [])
+        flyer_front = next(
+            (img["filename"] for img in images if img.get("type") == "FLYERFRONT"),
+            event.get("flyerFront") or "N/A"
+        )
+        flyer_back = next(
+            (img["filename"] for img in images if img.get("type") == "FLYERBACK"),
+            event.get("flyerBack") or "N/A"
+        )
+
+        # Extract venue location
+        venue_location = event.get("venue", {}).get("location", {})
+        latitude = venue_location.get("latitude", "N/A")
+        longitude = venue_location.get("longitude", "N/A")
+
+        # Extract player links (Soundcloud/Mixcloud)
+        player_links = event.get("playerLinks", [])
+        player_link_urls = ", ".join(
+            [f"{link.get('audioService', {}).get('name', 'Unknown')}: {link.get('sourceId', '')}"
+             for link in player_links]
+        ) or "N/A"
+
+        # Extract RA Pick info
+        pick = event.get("pick")
+        if pick:
+            pick_blurb = pick.get("blurb", "N/A")
+            pick_author = pick.get("author", {}).get("name", "N/A")
+        else:
+            pick_blurb = "N/A"
+            pick_author = "N/A"
+
+        # Extract timezone
+        timezone = event.get("area", {}).get("ianaTimeZone", "N/A")
+
         data = {
             "event_id": event["id"],
             "area": event["venue"]["area"]["name"],
             "venue": event["venue"]["name"],
             "address": event.get("venue", {}).get("address") or "N/A",
-            "venue_url": f"https://de.ra.co{event['venue'].get('contentUrl', '/')}",
+            "venue_url": f"https://ra.co{event['venue'].get('contentUrl', '/')}",
             "event_name": event["title"],
             "event_date": event["date"][:10],
             "start_time": convertTime(event["startTime"]),
             "end_time": convertTime(event["endTime"]),
-            "event_url": f"https://de.ra.co{event['contentUrl']}",
+            "event_url": f"https://ra.co{event['contentUrl']}",
+            "latitude": latitude,
+            "longitude": longitude,
+            "timezone": timezone,
+            "poster_front": flyer_front,
+            "poster_back": flyer_back,
             "promoters": ", ".join(
                 [promoter["name"] for promoter in event.get("promoters", [])]
             )
             or "N/A",
             "promoter_url": ", ".join(
                 [
-                    f"https://de.ra.co{promoter['contentUrl']}"
+                    f"https://ra.co{promoter['contentUrl']}"
                     for promoter in event.get("promoters", [])
                 ]
             )
             or "N/A",
+            "artists": ", ".join(
+                [artist["name"] for artist in event.get("artists", [])]
+            )
+            or "N/A",
+            "artist_url": ", ".join(
+                [
+                    f"https://ra.co{artist['contentUrl']}"
+                    for artist in event.get("artists", [])
+                ]
+            )
+            or "N/A",
             "interested": event.get("interestedCount", 0),
-            "ticket_category": (
-                event["tickets"][0].get("title", "N/A")
-                if "tickets" in event and event["tickets"]
-                else "N/A"
-            ),
-            "ticket_price": (
-                event["tickets"][0].get("priceRetail", "N/A")
-                if "tickets" in event and event["tickets"]
-                else "N/A"
-            ),
+            "ticket_category": ", ".join(
+                [ticket.get("title", "") for ticket in event.get("tickets", [])]
+            )
+            or "N/A",
+            "ticket_price": ", ".join(
+                [str(ticket.get("priceRetail", "")) for ticket in event.get("tickets", []) if ticket.get("priceRetail")]
+            )
+            or "N/A",
             "lineup": re.sub(r"<.*?>", "", event["lineup"]).replace("\n", ", ").strip(),
             "minimum_age": event.get("minimumAge", None) or "18",
             "genre": ", ".join([genre["name"] for genre in event["genres"]]),
@@ -104,6 +153,12 @@ class EventFetcher:
                 [website["url"] for website in event.get("promotionalLinks", [])]
             )
             or "N/A",
+            "player_links": player_link_urls,
+            "is_festival": event.get("isFestival", False),
+            "date_posted": event.get("datePosted", "N/A"),
+            "date_updated": event.get("dateUpdated", "N/A"),
+            "pick_blurb": pick_blurb,
+            "pick_author": pick_author,
         }
 
         with open(output_file, "w", encoding="utf-8") as file:

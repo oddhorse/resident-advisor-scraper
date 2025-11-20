@@ -1,0 +1,898 @@
+Fetching all areas by iterating through area IDs...
+This will query each ID until we get errors
+
+ID 0: Not found (consecutive failures: 1)
+ID 1: Sydney (Australia) ✓
+ID 2: Melbourne (Australia) ✓
+ID 3: Perth (Australia) ✓
+ID 4: Canberra (Australia) ✓
+ID 5: Adelaide (Australia) ✓
+ID 6: Hobart (Australia) ✓
+ID 7: Not found (consecutive failures: 1)
+ID 8: New York City (United States of America) ✓
+ID 9: Not found (consecutive failures: 1)
+ID 12: Brisbane (Australia) ✓
+ID 13: London (United Kingdom) ✓
+ID 14: Midlands (United Kingdom) ✓
+ID 15: South + East (United Kingdom) ✓
+ID 16: North (United Kingdom) ✓
+ID 17: Chicago (United States of America) ✓
+ID 18: Not found (consecutive failures: 1)
+ID 19: Detroit (United States of America) ✓
+ID 20: Barcelona (Spain) ✓
+ID 21: Not found (consecutive failures: 1)
+ID 22: Washington DC (United States of America) ✓
+ID 23: Los Angeles (United States of America) ✓
+ID 24: West + Wales (United Kingdom) ✓
+ID 25: Ibiza (Spain) ✓
+ID 26: All (Costa Rica) ✓
+ID 27: Tokyo (Japan) ✓
+ID 28: Toronto (Canada) ✓
+ID 29: Amsterdam (Netherlands) ✓
+ID 30: Scotland (United Kingdom) ✓
+ID 31: Not found (consecutive failures: 1)
+ID 34: Berlin (Germany) ✓
+ID 35: Northern Ireland (United Kingdom) ✓
+ID 36: Kuala Lumpur (Malaysia) ✓
+ID 37: All (Greece) ✓
+ID 38: Miami (United States of America) ✓
+ID 39: Vancouver (Canada) ✓
+ID 40: Montreal (Canada) ✓
+ID 41: Madrid (Spain) ✓
+ID 42: All (Israel) ✓
+ID 43: All (Ireland) ✓
+ID 44: Paris (France) ✓
+ID 45: All (Argentina) ✓
+ID 46: Seattle (United States of America) ✓
+ID 47: Nevada (United States of America) ✓
+ID 48: New Jersey (United States of America) ✓
+ID 49: South Island (New Zealand) ✓
+ID 50: All (Romania) ✓
+ID 51: All (Singapore) ✓
+ID 52: Central (Italy) ✓
+ID 53: Lisbon (Portugal) ✓
+ID 54: Edmonton (Canada) ✓
+ID 55: All (Taiwan) ✓
+ID 56: Not found (consecutive failures: 1)
+ID 57: All (Norway) ✓
+ID 58: All (Sweden) ✓
+ID 59: All (Chile) ✓
+ID 60: All (Switzerland) ✓
+ID 61: All (Brazil) ✓
+ID 62: All (Belgium) ✓
+ID 63: Houston (United States of America) ✓
+ID 64: Georgia (United States of America) ✓
+ID 65: Louisiana (United States of America) ✓
+ID 66: Kansai (Japan) ✓
+ID 67: All (Thailand) ✓
+ID 68: Shanghai (China) ✓
+ID 69: All (Poland) ✓
+ID 70: Monterrey (Mexico) ✓
+ID 71: Hong Kong (China) ✓
+ID 72: Tennessee (United States of America) ✓
+ID 73: Istanbul (Turkey) ✓
+ID 74: Ottawa (Canada) ✓
+ID 75: All (South Korea) ✓
+ID 76: All (Indonesia) ✓
+ID 77: All (Serbia) ✓
+ID 78: All (Hungary) ✓
+ID 79: Massachusetts (United States of America) ✓
+ID 80: Pennsylvania (United States of America) ✓
+ID 81: Minnesota (United States of America) ✓
+ID 82: Colorado (United States of America) ✓
+ID 83: Not found (consecutive failures: 1)
+ID 84: Ohio (United States of America) ✓
+ID 85: Indiana (United States of America) ✓
+ID 86: All (Peru) ✓
+ID 87: All (Finland) ✓
+ID 88: Moscow (Russia) ✓
+ID 89: Not found (consecutive failures: 1)
+ID 90: Kansas (United States of America) ✓
+ID 91: All (Lithuania) ✓
+ID 92: All (Panama) ✓
+ID 93: All (Latvia) ✓
+ID 94: All (Croatia) ✓
+ID 95: All (Bulgaria) ✓
+ID 96: All (Egypt) ✓
+ID 97: All (Czech Republic) ✓
+ID 98: All (Slovakia) ✓
+ID 99: All (Denmark) ✓
+ID 100: Cape Town (South Africa) ✓
+ID 101: All (Lebanon) ✓
+ID 102: Arizona (United States of America) ✓
+ID 103: Mississippi (United States of America) ✓
+ID 104: Oklahoma (United States of America) ✓
+ID 105: South Carolina (United States of America) ✓
+ID 106: Utah (United States of America) ✓
+ID 107: Wisconsin (United States of America) ✓
+ID 108: Alabama (United States of America) ✓
+ID 109: Alaska (United States of America) ✓
+ID 110: Arkansas (United States of America) ✓
+ID 111: Connecticut (United States of America) ✓
+ID 112: Delaware (United States of America) ✓
+ID 113: Idaho (United States of America) ✓
+ID 114: Iowa (United States of America) ✓
+ID 115: Kentucky (United States of America) ✓
+ID 116: Maine (United States of America) ✓
+ID 117: Maryland (United States of America) ✓
+ID 118: Missouri (United States of America) ✓
+ID 119: Montana (United States of America) ✓
+ID 120: Nebraska (United States of America) ✓
+ID 121: New Hampshire (United States of America) ✓
+ID 122: New Mexico (United States of America) ✓
+ID 123: North Carolina (United States of America) ✓
+ID 124: North Dakota (United States of America) ✓
+ID 125: Portland (United States of America) ✓
+ID 126: Not found (consecutive failures: 1)
+ID 127: Rhode Island (United States of America) ✓
+ID 128: South Dakota (United States of America) ✓
+ID 129: Vermont (United States of America) ✓
+ID 130: Virginia (United States of America) ✓
+ID 131: West Virginia (United States of America) ✓
+ID 132: Wyoming (United States of America) ✓
+ID 133: Hawaii (United States of America) ✓
+ID 134: Not found (consecutive failures: 1)
+ID 135: All (El Salvador) ✓
+ID 136: Dubai (United Arab Emirates) ✓
+ID 137: Calgary (Canada) ✓
+ID 138: Hokkaido (Japan) ✓
+ID 139: Kyushu (Japan) ✓
+ID 140: Chubu (Japan) ✓
+ID 141: Chugoku (Japan) ✓
+ID 142: All (Slovenia) ✓
+ID 143: Cologne (Germany) ✓
+ID 144: Dortmund / Essen (Germany) ✓
+ID 145: Düsseldorf (Germany) ✓
+ID 146: Hannover (Germany) ✓
+ID 147: Frankfurt (Germany) ✓
+ID 148: Hamburg (Germany) ✓
+ID 149: Leipzig (Germany) ✓
+ID 150: Dresden (Germany) ✓
+ID 151: Munich (Germany) ✓
+ID 152: Stuttgart (Germany) ✓
+ID 153: Mannheim (Germany) ✓
+ID 154: Nürnberg (Germany) ✓
+ID 155: West (France) ✓
+ID 156: South East (France) ✓
+ID 157: French Riviera (France) ✓
+ID 158: All (Monaco) ✓
+ID 159: All (Austria) ✓
+ID 160: East (Spain) ✓
+ID 161: Windsor (Canada) ✓
+ID 162: Other regions (India) ✓
+ID 163: All (Colombia) ✓
+ID 164: All (Malta) ✓
+ID 165: All (Ukraine) ✓
+ID 166: All (Pakistan) ✓
+ID 167: All (Honduras) ✓
+ID 168: All (Philippines) ✓
+ID 169: South (Spain) ✓
+ID 170: North (Spain) ✓
+ID 171: North (Italy) ✓
+ID 172: South (Italy) ✓
+ID 173: All (Morocco) ✓
+ID 174: Rotterdam (Netherlands) ✓
+ID 175: Utrecht (Netherlands) ✓
+ID 176: All (Netherlands) ✓
+ID 177: Eindhoven (Netherlands) ✓
+ID 178: The Hague (Netherlands) ✓
+ID 179: All (Dominican Republic) ✓
+ID 180: All (Paraguay) ✓
+ID 181: All (Puerto Rico) ✓
+ID 182: All (Venezuela) ✓
+ID 183: Not found (consecutive failures: 1)
+ID 184: All (Estonia) ✓
+ID 185: All (Ecuador) ✓
+ID 186: All (Barbados) ✓
+ID 187: All (Bosnia and Herzegovina) ✓
+ID 188: Tbilisi (Georgia) ✓
+ID 189: All (Belarus) ✓
+ID 190: Guangzhou (China) ✓
+ID 191: Beijing (China) ✓
+ID 192: All (Jordan) ✓
+ID 193: All (Montenegro) ✓
+ID 194: All (Uruguay) ✓
+ID 195: All (Bahrain) ✓
+ID 196: All (Tunisia) ✓
+ID 197: All (Cyprus) ✓
+ID 198: All (Moldova) ✓
+ID 199: All (Luxembourg) ✓
+ID 200: All (Bolivia) ✓
+ID 201: All (Iceland) ✓
+ID 202: All (Guatemala) ✓
+ID 203: All (Qatar) ✓
+ID 204: All (Malawi) ✓
+ID 205: All (Vietnam) ✓
+ID 206: All (Iran) ✓
+ID 207: All (Cayman Islands) ✓
+ID 208: Brandenburg (Germany) ✓
+ID 209: Augsburg (Germany) ✓
+ID 210: Jena (Germany) ✓
+ID 211: Not found (consecutive failures: 1)
+ID 212: All (Mongolia) ✓
+ID 213: Abu Dhabi (United Arab Emirates) ✓
+ID 214: All (Kenya) ✓
+ID 215: All (Oman) ✓
+ID 216: All (Uzbekistan) ✓
+ID 217: Suzhou (China) ✓
+ID 218: San Francisco/Oakland (United States of America) ✓
+ID 219: Heidelberg (Germany) ✓
+ID 220: Karlsruhe (Germany) ✓
+ID 221: All (Jamaica) ✓
+ID 222: All (Seychelles) ✓
+ID 223: All (Albania) ✓
+ID 224: Regensburg (Germany) ✓
+ID 225: Bremen (Germany) ✓
+ID 226: Mecklenburg-Vorpommern (Germany) ✓
+ID 227: Saxony-Anhalt (Germany) ✓
+ID 228: Freiburg (Germany) ✓
+ID 229: Darmstadt (Germany) ✓
+ID 230: Not found (consecutive failures: 1)
+ID 231: Saint Petersburg (Russia) ✓
+ID 232: Rest of Russia (Russia) ✓
+ID 233: Kassel (Germany) ✓
+ID 234: Hangzhou (China) ✓
+ID 235: Erfurt (Germany) ✓
+ID 236: All (Kuwait) ✓
+ID 237: Krasnodar (Russia) ✓
+ID 238: All (Cuba) ✓
+ID 239: Not found (consecutive failures: 1)
+ID 242: Okinawa (Japan) ✓
+ID 243: All (Gibraltar) ✓
+ID 244: Macau (China) ✓
+ID 245: Not found (consecutive failures: 1)
+ID 249: All (Nicaragua) ✓
+ID 250: Quebec City (Canada) ✓
+ID 251: Not found (consecutive failures: 1)
+ID 252: Kanto (Japan) ✓
+ID 253: Not found (consecutive failures: 1)
+ID 254: Tohoku (Japan) ✓
+ID 255: Not found (consecutive failures: 1)
+ID 258: Johannesburg (South Africa) ✓
+ID 259: Durban (South Africa) ✓
+ID 260: All (South Africa) ✓
+ID 261: Not found (consecutive failures: 1)
+ID 264: All (Armenia) ✓
+ID 265: Chemnitz (Germany) ✓
+ID 266: Rhineland-Palatinate (Germany) ✓
+ID 267: Not found (consecutive failures: 1)
+ID 269: All (Bangladesh) ✓
+ID 270: All (Azerbaijan) ✓
+ID 271: All (Tanzania) ✓
+ID 272: All (Cambodia) ✓
+ID 273: Schleswig-Holstein (Germany) ✓
+ID 274: Bielefeld (Germany) ✓
+ID 275: Münster (Germany) ✓
+ID 276: Central (France) ✓
+ID 277: East (France) ✓
+ID 278: North (France) ✓
+ID 279: Tianjin (China) ✓
+ID 280: Wuhan (China) ✓
+ID 281: Nanjing (China) ✓
+ID 282: Shenyang (China) ✓
+ID 283: Chengdu (China) ✓
+ID 284: Xiamen (China) ✓
+ID 285: Quanzhou (China) ✓
+ID 286: South West (France) ✓
+ID 287: All (Nepal) ✓
+ID 288: All (Andorra) ✓
+ID 289: All (Sri Lanka) ✓
+ID 290: All (Guam) ✓
+ID 291: Not found (consecutive failures: 1)
+ID 294: Shikoku (Japan) ✓
+ID 295: Not found (consecutive failures: 1)
+ID 296: All (Bahamas) ✓
+ID 297: All (Kazakhstan) ✓
+ID 298: Bochum (Germany) ✓
+ID 299: All (Saudi Arabia) ✓
+ID 300: Not found (consecutive failures: 1)
+ID 302: Sicily (Italy) ✓
+ID 303: All (Nigeria) ✓
+ID 304: All (Mauritius) ✓
+ID 305: All (Mozambique) ✓
+ID 306: All (Uganda) ✓
+ID 307: All (Algeria) ✓
+ID 308: California (United States of America) ✓
+ID 309: San Diego (United States of America) ✓
+ID 310: Sacramento (United States of America) ✓
+ID 311: Changsha (China) ✓
+ID 312: All (Angola) ✓
+ID 313: All (Zimbabwe) ✓
+ID 314: Jacksonville (United States of America) ✓
+ID 315: Orlando (United States of America) ✓
+ID 316: Tampa Bay (United States of America) ✓
+ID 317: Florida (United States of America) ✓
+ID 318: Texas (United States of America) ✓
+ID 319: Dallas/Fort Worth (United States of America) ✓
+ID 320: San Antonio (United States of America) ✓
+ID 321: Austin (United States of America) ✓
+ID 322: El Paso (United States of America) ✓
+ID 323: Goa (India) ✓
+ID 324: Delhi (India) ✓
+ID 325: Bangalore (India) ✓
+ID 326: Hyderabad (India) ✓
+ID 327: Chennai (India) ✓
+ID 328: Mumbai (India) ✓
+ID 329: Pune (India) ✓
+ID 330: All (Bermuda) ✓
+ID 331: All (Belize) ✓
+ID 332: Chongqing (China) ✓
+ID 333: Saarland (Germany) ✓
+ID 334: All (Curacao) ✓
+ID 335: All (Myanmar) ✓
+ID 336: Baden-Württemberg (Germany) ✓
+ID 337: Lyon (France) ✓
+ID 338: Marseille (France) ✓
+ID 339: Montpellier (France) ✓
+ID 340: Glasgow (United Kingdom) ✓
+ID 341: Edinburgh (United Kingdom) ✓
+ID 342: Aberdeen (United Kingdom) ✓
+ID 343: Liverpool (United Kingdom) ✓
+ID 344: Manchester (United Kingdom) ✓
+ID 345: Newcastle (United Kingdom) ✓
+ID 346: Leeds (United Kingdom) ✓
+ID 347: Milan (Italy) ✓
+ID 348: Turin (Italy) ✓
+ID 349: Venice (Italy) ✓
+ID 350: Bologna (Italy) ✓
+ID 351: Rome (Italy) ✓
+ID 352: Florence (Italy) ✓
+ID 353: North Rhine-Westphalia (Germany) ✓
+ID 354: Hesse (Germany) ✓
+ID 355: Thuringia (Germany) ✓
+ID 356: Saxony (Germany) ✓
+ID 357: Bavaria (Germany) ✓
+ID 358: Lower Saxony (Germany) ✓
+ID 359: Illinois (United States of America) ✓
+ID 360: Michigan (United States of America) ✓
+ID 361: Shenzhen (China) ✓
+ID 362: All (Kosovo) ✓
+ID 363: All (Saint Martin) ✓
+ID 364: Porto (Portugal) ✓
+ID 365: Algarve (Portugal) ✓
+ID 366: All (Portugal) ✓
+ID 367: Canary Islands (Spain) ✓
+ID 368: All (Palestine) ✓
+ID 369: All (Rwanda) ✓
+ID 370: All (Senegal) ✓
+ID 371: Kunming (China) ✓
+ID 372: Kolkata (India) ✓
+ID 373: Bogotá (Colombia) ✓
+ID 374: Medellin (Colombia) ✓
+ID 375: Cali (Colombia) ✓
+ID 376: All (Georgia) ✓
+ID 377: Batumi (Georgia) ✓
+ID 378: All (Turkey) ✓
+ID 379: Ankara (Turkey) ✓
+ID 380: Izmir (Turkey) ✓
+ID 381: Bucharest (Romania) ✓
+ID 382: Cluj-Napoca (Romania) ✓
+ID 383: Iasi (Romania) ✓
+ID 384: Montevideo (Uruguay) ✓
+ID 385: Santiago (Chile) ✓
+ID 386: Dublin (Ireland) ✓
+ID 387: Cork (Ireland) ✓
+ID 388: Limerick (Ireland) ✓
+ID 389: Galway (Ireland) ✓
+ID 390: Zurich (Switzerland) ✓
+ID 391: Basel (Switzerland) ✓
+ID 392: Geneva (Switzerland) ✓
+ID 393: Lausanne (Switzerland) ✓
+ID 394: Bern (Switzerland) ✓
+ID 395: Buenos Aires (Argentina) ✓
+ID 396: Stockholm (Sweden) ✓
+ID 397: Gothenburg (Sweden) ✓
+ID 398: Malmo (Sweden) ✓
+ID 399: Mexico City (Mexico) ✓
+ID 400: Sao Paulo (Brazil) ✓
+ID 401: Rio de Janeiro (Brazil) ✓
+ID 402: Copenhagen (Denmark) ✓
+ID 403: Aarhus (Denmark) ✓
+ID 404: Antwerp (Belgium) ✓
+ID 405: Brussels (Belgium) ✓
+ID 406: Naples (Italy) ✓
+ID 407: Helsinki (Finland) ✓
+ID 408: Oslo (Norway) ✓
+ID 409: Bergen (Norway) ✓
+ID 410: Oregon (United States of America) ✓
+ID 411: Washington State (United States of America) ✓
+ID 412: Taipei (Taiwan) ✓
+ID 413: Tel Aviv (Israel) ✓
+ID 414: All (Sudan) ✓
+ID 415: All (South Sudan) ✓
+ID 416: All (Samoa) ✓
+ID 417: All (Antigua and Barbuda) ✓
+ID 418: All (Benin) ✓
+ID 419: All (Bhutan) ✓
+ID 420: All (Botswana) ✓
+ID 421: All (Burkina Faso) ✓
+ID 422: All (Cameroon) ✓
+ID 423: All (Ivory Coast) ✓
+ID 424: All (Democratic Republic of the Congo) ✓
+ID 425: All (Gambia) ✓
+ID 426: All (Ghana) ✓
+ID 427: All (Laos) ✓
+ID 428: All (Madagascar) ✓
+ID 429: All (Maldives) ✓
+ID 430: Not found (consecutive failures: 1)
+ID 431: All (Saint Lucia) ✓
+ID 432: All (Saint Kitts and Nevis) ✓
+ID 433: New South Wales (Australia) ✓
+ID 434: Victoria (Australia) ✓
+ID 435: Queensland (Australia) ✓
+ID 436: South Australia (Australia) ✓
+ID 437: Western Australia (Australia) ✓
+ID 438: Tasmania (Australia) ✓
+ID 439: Australian Capital Territory (Australia) ✓
+ID 440: Northern Territory (Australia) ✓
+ID 441: Darwin (Australia) ✓
+ID 442: All (Trinidad and Tobago) ✓
+ID 443: Buffalo/Rochester (United States of America) ✓
+ID 444: Xi'an (China) ✓
+ID 445: Jinan (China) ✓
+ID 446: Bristol (United Kingdom) ✓
+ID 447: Qingdao (China) ✓
+ID 448: French West Indies (France) ✓
+ID 449: Budapest (Hungary) ✓
+ID 450: Vienna (Austria) ✓
+ID 451: Prague (Czech Republic) ✓
+ID 452: All (Tajikistan) ✓
+ID 453: Bangkok (Thailand) ✓
+ID 454: Warsaw (Poland) ✓
+ID 455: Krakow (Poland) ✓
+ID 456: All (Fiji) ✓
+ID 457: All (Somalia) ✓
+ID 458: All (Ethiopia) ✓
+ID 459: Not found (consecutive failures: 1)
+ID 463: All (Streamland) ✓
+ID 464: Not found (consecutive failures: 1)
+ID 465: All (Zambia) ✓
+ID 466: All (Afghanistan) ✓
+ID 467: All (Cape Verde) ✓
+ID 468: All (Central African Republic) ✓
+ID 469: All (Chad) ✓
+ID 470: All (Comoros) ✓
+ID 471: All (Republic of the Congo) ✓
+ID 472: All (Dominica) ✓
+ID 473: All (East Timor) ✓
+ID 474: All (Equatorial Guinea) ✓
+ID 475: All (Eritrea) ✓
+ID 476: All (Eswatini) ✓
+ID 477: All (Gabon) ✓
+ID 478: All (Grenada) ✓
+ID 479: All (Guinea) ✓
+ID 480: All (Guinea-Bissau) ✓
+ID 481: All (Guyana) ✓
+ID 482: All (Haiti) ✓
+ID 483: All (Iraq) ✓
+ID 484: All (Kiribati) ✓
+ID 485: All (Kyrgyzstan) ✓
+ID 486: Not found (consecutive failures: 1)
+ID 487: All (Lesotho) ✓
+ID 488: All (Liberia) ✓
+ID 489: All (Libya) ✓
+ID 490: All (Liechtenstein) ✓
+ID 491: All (Mali) ✓
+ID 492: All (Marshall Islands) ✓
+ID 493: All (Mauritania) ✓
+ID 494: All (Federated States of Micronesia) ✓
+ID 495: All (Namibia) ✓
+ID 496: All (Nauru) ✓
+ID 497: All (Niger) ✓
+ID 498: All (North Macedonia) ✓
+ID 499: All (Palau) ✓
+ID 500: All (Papua New Guinea) ✓
+ID 501: All (San Marino) ✓
+ID 502: All (Sao Tome and Principe) ✓
+ID 503: All (Sierra Leone) ✓
+ID 504: All (Solomon Islands) ✓
+ID 505: All (Suriname) ✓
+ID 506: All (Syria) ✓
+ID 507: All (Togo) ✓
+ID 508: All (Tonga) ✓
+ID 509: All (Turkmenistan) ✓
+ID 510: All (Tuvalu) ✓
+ID 511: All (Vanuatu) ✓
+ID 512: All (Brunei) ✓
+ID 513: All (Burundi) ✓
+ID 514: All (Djibouti) ✓
+ID 515: Odense (Denmark) ✓
+ID 516: Birmingham (United Kingdom) ✓
+ID 517: Kyiv (Ukraine) ✓
+ID 518: Cardiff (United Kingdom) ✓
+ID 519: Denver (United States of America) ✓
+ID 520: Sheffield (United Kingdom) ✓
+ID 521: Not found (consecutive failures: 1)
+ID 522: Guadalajara (Mexico) ✓
+ID 523: Tulum (Mexico) ✓
+ID 524: Tijuana (Mexico) ✓
+ID 525: Puerto Escondido (Mexico) ✓
+ID 526: Baltimore (United States of America) ✓
+ID 527: Las Vegas (United States of America) ✓
+ID 528: Philadelphia (United States of America) ✓
+ID 529: Cleveland (United States of America) ✓
+ID 530: Boston (United States of America) ✓
+ID 531: Pittsburgh (United States of America) ✓
+ID 532: Atlanta (United States of America) ✓
+ID 533: Not found (consecutive failures: 1)
+ID 534: Belfast (United Kingdom) ✓
+ID 535: Brighton (United Kingdom) ✓
+ID 536: Nantes (France) ✓
+ID 537: Seoul (South Korea) ✓
+ID 538: Pereira (Colombia) ✓
+ID 539: Dundee (United Kingdom) ✓
+ID 540: Auckland (New Zealand) ✓
+ID 541: Wellington (New Zealand) ✓
+ID 542: Christchurch (New Zealand) ✓
+ID 543: Bali (Indonesia) ✓
+ID 544: Nottingham (United Kingdom) ✓
+ID 545: Ghent (Belgium) ✓
+ID 546: Timisoara (Romania) ✓
+ID 547: Beirut (Lebanon) ✓
+ID 548: Pretoria (South Africa) ✓
+ID 549: Athens (Greece) ✓
+ID 550: Puerto Vallarta (Mexico) ✓
+ID 551: Puebla (city) (Mexico) ✓
+ID 552: San Jose (United States of America) ✓
+ID 553: Richmond (United States of America) ✓
+ID 554: Ho Chi Minh City (Vietnam) ✓
+ID 555: Not found (consecutive failures: 1)
+ID 556: Hanoi (Vietnam) ✓
+ID 557: Lagos (Nigeria) ✓
+ID 558: Sofia (Bulgaria) ✓
+ID 559: Zagreb (Croatia) ✓
+ID 560: Riga (Latvia) ✓
+ID 561: Vilnius (Lithuania) ✓
+ID 562: Belgrade (Serbia) ✓
+ID 563: Ljubljana (Slovenia) ✓
+ID 564: Columbus (United States of America) ✓
+ID 565: Manila (Philippines) ✓
+ID 566: Tallinn (Estonia) ✓
+ID 567: Andorra la Vella (Andorra) ✓
+ID 568: Bratislava (Slovakia) ✓
+ID 569: Jakarta (Indonesia) ✓
+ID 570: Ontario (Canada) ✓
+ID 571: British Columbia (Canada) ✓
+ID 572: Province of Quebec (Canada) ✓
+ID 573: Alberta (Canada) ✓
+ID 574: Yukon (Canada) ✓
+ID 575: Northwest Territories (Canada) ✓
+ID 576: Nunavut (Canada) ✓
+ID 577: Saskatchewan (Canada) ✓
+ID 578: Regina (Canada) ✓
+ID 579: Manitoba (Canada) ✓
+ID 580: Winnipeg (Canada) ✓
+ID 581: Newfoundland and Labrador (Canada) ✓
+ID 582: St. Johns (Canada) ✓
+ID 583: New Brunswick (Canada) ✓
+ID 584: Moncton (Canada) ✓
+ID 585: Nova Scotia (Canada) ✓
+ID 586: Halifax (Canada) ✓
+ID 587: Prince Edward Island (Canada) ✓
+ID 588: Charlottetown (Canada) ✓
+ID 589: North Island (New Zealand) ✓
+ID 590: Minneapolis/St Paul (United States of America) ✓
+ID 591: Phoenix (United States of America) ✓
+ID 592: Salt Lake City (United States of America) ✓
+ID 593: Milwaukee (United States of America) ✓
+ID 594: Madison (United States of America) ✓
+ID 595: Tucson (United States of America) ✓
+ID 596: Palm Springs (United States of America) ✓
+ID 597: Santiago de Querétaro (Mexico) ✓
+ID 598: Irapuato (Mexico) ✓
+ID 599: Oaxaca de Juárez (Mexico) ✓
+ID 600: Ciudad Juárez (Mexico) ✓
+ID 601: Acapulco de Juárez (Mexico) ✓
+ID 602: San José del Cabo (Mexico) ✓
+ID 603: Mérida (Mexico) ✓
+ID 604: Morelia (Mexico) ✓
+ID 605: New York State (United States of America) ✓
+ID 606: New Orleans (United States of America) ✓
+ID 607: Valencia (Spain) ✓
+ID 608: Malaga (Spain) ✓
+ID 609: Benidorm (Spain) ✓
+ID 610: Faro (Portugal) ✓
+ID 611: Lagos (Portugal) ✓
+ID 612: Bilbao (Spain) ✓
+ID 613: Alicante (Spain) ✓
+ID 614: Nice (France) ✓
+ID 615: Strasbourg (France) ✓
+ID 616: Chamonix (France) ✓
+ID 617: Bordeaux (France) ✓
+ID 618: Toulouse (France) ✓
+ID 619: Lille (France) ✓
+ID 620: Rennes (France) ✓
+ID 621: Baja California (Mexico) ✓
+ID 622: Baja California Sur (Mexico) ✓
+ID 623: Sonora (Mexico) ✓
+ID 624: Chihuahua (Mexico) ✓
+ID 625: Sinaloa (Mexico) ✓
+ID 626: Coahuila (Mexico) ✓
+ID 627: Durango (Mexico) ✓
+ID 628: Nuevo León (Mexico) ✓
+ID 629: Nayarit (Mexico) ✓
+ID 630: Zacatecas (Mexico) ✓
+ID 631: San luis Potosi (Mexico) ✓
+ID 632: Aguascalientes (Mexico) ✓
+ID 633: Tamaulipas (Mexico) ✓
+ID 634: Jalisco (Mexico) ✓
+ID 635: Guanajuato (Mexico) ✓
+ID 636: Colima (Mexico) ✓
+ID 637: Querétaro (Mexico) ✓
+ID 638: Michoacán (Mexico) ✓
+ID 639: Hidalgo (Mexico) ✓
+ID 640: Tlaxcala (Mexico) ✓
+ID 641: Morelos (Mexico) ✓
+ID 642: Puebla (Mexico) ✓
+ID 643: Estado de México (Mexico) ✓
+ID 644: Veracruz (Mexico) ✓
+ID 645: Guerrero (Mexico) ✓
+ID 646: Oaxaca (Mexico) ✓
+ID 647: Tabasco (Mexico) ✓
+ID 648: Chiapas (Mexico) ✓
+ID 649: Campeche (Mexico) ✓
+ID 650: Yucátan (Mexico) ✓
+ID 651: Quintana Roo (Mexico) ✓
+ID 652: Charlotte (United States of America) ✓
+ID 653: Nashville (United States of America) ✓
+ID 654: Greensboro (United States of America) ✓
+ID 655: Charleston (United States of America) ✓
+ID 656: Wilmington (United States of America) ✓
+ID 657: Thessaloniki (Greece) ✓
+ID 658: Crete (Greece) ✓
+ID 659: Mykonos (Greece) ✓
+ID 660: Nairobi (Kenya) ✓
+ID 661: Mallorca (Spain) ✓
+ID 662: Hamilton (Canada) ✓
+ID 663: Kyoto (Japan) ✓
+ID 664: Osaka (Japan) ✓
+ID 665: Busan (South Korea) ✓
+ID 666: Poznan (Poland) ✓
+ID 667: Gdansk (Poland) ✓
+ID 668: Wroclaw (Poland) ✓
+ID 669: Tirana (Albania) ✓
+ID 670: Skopje (North Macedonia) ✓
+ID 671: Podgorica (Montenegro) ✓
+ID 672: Nijmegen (Netherlands) ✓
+ID 673: Sardinia (Italy) ✓
+ID 674: Byron Bay (Australia) ✓
+ID 675: Gold Coast (Australia) ✓
+ID 676: Brno (Czech Republic) ✓
+ID 677: Lodz (Poland) ✓
+ID 678: Inland Empire (United States of America) ✓
+ID 679: Orange County (United States of America) ✓
+ID 680: Fire Island (United States of America) ✓
+ID 681: Provincetown (United States of America) ✓
+ID 682: Ensenada (Mexico) ✓
+ID 683: Memphis (United States of America) ✓
+ID 684: Playa del Carmen (Mexico) ✓
+ID 685: Southampton (United Kingdom) ✓
+ID 686: Portsmouth (United Kingdom) ✓
+ID 687: Mainz (Germany) ✓
+ID 688: Wiesbaden (Germany) ✓
+ID 689: Waterford (Ireland) ✓
+ID 690: Not found (consecutive failures: 1)
+ID 699: Not found (consecutive failures: 10)
+ID 709: Not found (consecutive failures: 20)
+ID 719: Not found (consecutive failures: 30)
+ID 729: Not found (consecutive failures: 40)
+ID 739: Not found (consecutive failures: 50)
+
+Stopped after 50 consecutive failures
+
+Found 639 unique areas total
+
+================================================================================
+Fetching complete!
+================================================================================
+
+================================================================================
+SUCCESS: Found 639 locations across 201 countries
+================================================================================
+
+Saved to:
+  - all_locations.json (complete JSON data)
+  - all_locations.txt (organized by country)
+
+Countries with areas (201):
+  Afghanistan: 1 location
+  Albania: 2 locations
+  Algeria: 1 location
+  Andorra: 2 locations
+  Angola: 1 location
+  Antigua and Barbuda: 1 location
+  Argentina: 2 locations
+  Armenia: 1 location
+  Australia: 18 locations
+  Austria: 2 locations
+  Azerbaijan: 1 location
+  Bahamas: 1 location
+  Bahrain: 1 location
+  Bangladesh: 1 location
+  Barbados: 1 location
+  Belarus: 1 location
+  Belgium: 4 locations
+  Belize: 1 location
+  Benin: 1 location
+  Bermuda: 1 location
+  Bhutan: 1 location
+  Bolivia: 1 location
+  Bosnia and Herzegovina: 1 location
+  Botswana: 1 location
+  Brazil: 3 locations
+  Brunei: 1 location
+  Bulgaria: 2 locations
+  Burkina Faso: 1 location
+  Burundi: 1 location
+  Cambodia: 1 location
+  Cameroon: 1 location
+  Canada: 28 locations
+  Cape Verde: 1 location
+  Cayman Islands: 1 location
+  Central African Republic: 1 location
+  Chad: 1 location
+  Chile: 2 locations
+  China: 21 locations
+  Colombia: 5 locations
+  Comoros: 1 location
+  Costa Rica: 1 location
+  Croatia: 2 locations
+  Cuba: 1 location
+  Curacao: 1 location
+  Cyprus: 1 location
+  Czech Republic: 3 locations
+  Democratic Republic of the Congo: 1 location
+  Denmark: 4 locations
+  Djibouti: 1 location
+  Dominica: 1 location
+  Dominican Republic: 1 location
+  East Timor: 1 location
+  Ecuador: 1 location
+  Egypt: 1 location
+  El Salvador: 1 location
+  Equatorial Guinea: 1 location
+  Eritrea: 1 location
+  Estonia: 2 locations
+  Eswatini: 1 location
+  Ethiopia: 1 location
+  Federated States of Micronesia: 1 location
+  Fiji: 1 location
+  Finland: 2 locations
+  France: 20 locations
+  Gabon: 1 location
+  Gambia: 1 location
+  Georgia: 3 locations
+  Germany: 42 locations
+  Ghana: 1 location
+  Gibraltar: 1 location
+  Greece: 5 locations
+  Grenada: 1 location
+  Guam: 1 location
+  Guatemala: 1 location
+  Guinea: 1 location
+  Guinea-Bissau: 1 location
+  Guyana: 1 location
+  Haiti: 1 location
+  Honduras: 1 location
+  Hungary: 2 locations
+  Iceland: 1 location
+  India: 9 locations
+  Indonesia: 3 locations
+  Iran: 1 location
+  Iraq: 1 location
+  Ireland: 6 locations
+  Israel: 2 locations
+  Italy: 12 locations
+  Ivory Coast: 1 location
+  Jamaica: 1 location
+  Japan: 12 locations
+  Jordan: 1 location
+  Kazakhstan: 1 location
+  Kenya: 2 locations
+  Kiribati: 1 location
+  Kosovo: 1 location
+  Kuwait: 1 location
+  Kyrgyzstan: 1 location
+  Laos: 1 location
+  Latvia: 2 locations
+  Lebanon: 2 locations
+  Lesotho: 1 location
+  Liberia: 1 location
+  Libya: 1 location
+  Liechtenstein: 1 location
+  Lithuania: 2 locations
+  Luxembourg: 1 location
+  Madagascar: 1 location
+  Malawi: 1 location
+  Malaysia: 1 location
+  Maldives: 1 location
+  Mali: 1 location
+  Malta: 1 location
+  Marshall Islands: 1 location
+  Mauritania: 1 location
+  Mauritius: 1 location
+  Mexico: 49 locations
+  Moldova: 1 location
+  Monaco: 1 location
+  Mongolia: 1 location
+  Montenegro: 2 locations
+  Morocco: 1 location
+  Mozambique: 1 location
+  Myanmar: 1 location
+  Namibia: 1 location
+  Nauru: 1 location
+  Nepal: 1 location
+  Netherlands: 7 locations
+  New Zealand: 5 locations
+  Nicaragua: 1 location
+  Niger: 1 location
+  Nigeria: 2 locations
+  North Macedonia: 2 locations
+  Norway: 3 locations
+  Oman: 1 location
+  Pakistan: 1 location
+  Palau: 1 location
+  Palestine: 1 location
+  Panama: 1 location
+  Papua New Guinea: 1 location
+  Paraguay: 1 location
+  Peru: 1 location
+  Philippines: 2 locations
+  Poland: 7 locations
+  Portugal: 6 locations
+  Puerto Rico: 1 location
+  Qatar: 1 location
+  Republic of the Congo: 1 location
+  Romania: 5 locations
+  Russia: 4 locations
+  Rwanda: 1 location
+  Saint Kitts and Nevis: 1 location
+  Saint Lucia: 1 location
+  Saint Martin: 1 location
+  Samoa: 1 location
+  San Marino: 1 location
+  Sao Tome and Principe: 1 location
+  Saudi Arabia: 1 location
+  Senegal: 1 location
+  Serbia: 2 locations
+  Seychelles: 1 location
+  Sierra Leone: 1 location
+  Singapore: 1 location
+  Slovakia: 2 locations
+  Slovenia: 2 locations
+  Solomon Islands: 1 location
+  Somalia: 1 location
+  South Africa: 5 locations
+  South Korea: 3 locations
+  South Sudan: 1 location
+  Spain: 13 locations
+  Sri Lanka: 1 location
+  Streamland: 1 location
+  Sudan: 1 location
+  Suriname: 1 location
+  Sweden: 4 locations
+  Switzerland: 6 locations
+  Syria: 1 location
+  Taiwan: 2 locations
+  Tajikistan: 1 location
+  Tanzania: 1 location
+  Thailand: 2 locations
+  Togo: 1 location
+  Tonga: 1 location
+  Trinidad and Tobago: 1 location
+  Tunisia: 1 location
+  Turkey: 4 locations
+  Turkmenistan: 1 location
+  Tuvalu: 1 location
+  Uganda: 1 location
+  Ukraine: 2 locations
+  United Arab Emirates: 2 locations
+  United Kingdom: 24 locations
+  United States of America: 99 locations
+  Uruguay: 2 locations
+  Uzbekistan: 1 location
+  Vanuatu: 1 location
+  Venezuela: 1 location
+  Vietnam: 3 locations
+  Zambia: 1 location
+  Zimbabwe: 1 location
