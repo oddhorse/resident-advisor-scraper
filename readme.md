@@ -2,7 +2,17 @@
 
 ## Installation
 1. Clone the repository or download the source code.
-2. Run ```pip install -r requirements.txt``` to install the required libraries.
+2. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   ```
+3. Activate the virtual environment:
+   - On macOS/Linux: `source venv/bin/activate`
+   - On Windows: `venv\Scripts\activate`
+4. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Example
 To fetch events for area 34 (Berlin, DE) from October 05, 2024, and save them to a JSON file named events/berlin.json, run the following command:
@@ -14,8 +24,6 @@ To fetch events for area 34 (Berlin, DE) from October 05, 2024, and save them to
 - events: containing all locational data as a JSON file.
 - locations: containing all area IDs in a JSON file.
 - payloads: containing payloads for sending POST requests.
-- venv: python virtual environment
-
 - requirements.txt: containing all necessary packages to run the program.
 - event_data.py: used to scrape specific event information by passing event ID.
                       command: ``` python event_data.py event_id -o default.json```
