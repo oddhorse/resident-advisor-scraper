@@ -31,3 +31,7 @@ Thumbs.db
 
 # notes
 notes/
+
+# Temp directory contents (but not the folder itself)
+temp/*
+!temp/.gitkeep
