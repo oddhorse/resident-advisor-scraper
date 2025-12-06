@@ -35,3 +35,6 @@ notes/
 # Temp directory contents (but not the folder itself)
 temp/*
 !temp/.gitkeep
+
+# Cache directory
+cache/

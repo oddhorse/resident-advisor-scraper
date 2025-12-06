@@ -1,14 +1,41 @@
-import json, os
+import json, os, argparse
 
 events_path = "events"
 BATCH_SIZE = 100  # Write to JSON every 100 events to avoid memory issues
 
-for filename in os.listdir(events_path):
-    if not filename.endswith(".json"):
-        continue
+# Parse command-line arguments
+parser = argparse.ArgumentParser(
+    description="Process RA event files and fetch full event details"
+)
+parser.add_argument(
+    "filename",
+    type=str,
+    nargs="?",  # Optional argument
+    help="Specific event file to process (e.g., berlin.json). If not provided, processes all files in events/"
+)
+args = parser.parse_args()
+
+# Ensure required directories exist
+os.makedirs("cache", exist_ok=True)
+os.makedirs("outputs", exist_ok=True)
+
+# Determine which files to process
+if args.filename:
+    # Single file mode
+    files_to_process = [args.filename]
+else:
+    # All files mode (current behavior)
+    files_to_process = [f for f in os.listdir(events_path) if f.endswith(".json")]
+
+for filename in files_to_process:
 
     output_path = f"outputs/{filename.replace('.json', '_full.json')}"
     json_file_path = os.path.join(events_path, filename)
+
+    # Validate file exists
+    if not os.path.exists(json_file_path):
+        print(f"Error: File {json_file_path} not found")
+        continue
 
     with open(json_file_path, "r") as events_file:
         data = json.load(events_file)

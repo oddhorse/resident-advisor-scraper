@@ -34,9 +34,10 @@ python total_events.py <area_id> <start_date> [-e <end_date>] -o events/<city>.j
 
 **Step 3: Enrich events with full details**
 ```bash
-python main_json.py          # Process all files in events/ → outputs/<city>_full.json
-python main_json_test.py     # Process first 100 events from one file (for testing)
-python main.py               # Same as main_json but outputs CSV
+python main_json.py berlin.json    # Process specific city file
+python main_json.py                # Process all files in events/ → outputs/<city>_full.json
+python main_json_test.py           # Process first 100 events from one file (for testing)
+python main.py                     # Same as main_json but outputs CSV
 ```
 
 **Single event lookup**
@@ -65,6 +66,23 @@ python event_data.py <event_id> -o output.json
 - Endpoint: `https://ra.co/graphql`
 - No authentication required, but uses browser-like headers
 - Rate limiting: 2-second delay between requests built into scrapers
+
+### Venue Caching & Geocoding
+
+The scraper automatically caches venue data to improve performance and consistency:
+
+- **Cache location**: `cache/venues_cache.json`
+- **Cache key**: Venue URL (contains unique venue ID)
+- **Cached fields**: venue name, address, area, latitude, longitude, timezone
+- **Benefits**: Faster processing for events at the same venue, ensures consistency across events
+- **Persistence**: Cache survives script restarts and is automatically loaded/saved
+- **Management**: Cache is automatically created on first run. To reset, delete `cache/venues_cache.json`
+
+**Automatic Geocoding**: When RA's coordinates are suspicious (integers, missing, or zero), the scraper automatically geocodes the venue address using Nominatim (OpenStreetMap):
+- Detects suspicious coordinates (e.g., `53, 13` instead of `52.5024767, 13.466302`)
+- Falls back to geocoding the address for accurate lat/long
+- Caches the corrected coordinates for future events at that venue
+- Uses 1-second delay between geocoding requests (Nominatim requirement)
 
 ### Data Fields (37 total)
 

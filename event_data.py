@@ -1,4 +1,4 @@
-import requests, json, argparse, re, csv
+import requests, json, argparse, re, csv, os
 from datetime import datetime
 
 URL = "https://ra.co/graphql"
@@ -10,6 +10,96 @@ HEADERS = {
 
 QUERY_TEMPLATE_PATH = "payloads/event.json"
 DELAY = 2
+VENUE_CACHE_FILE = "cache/venues_cache.json"
+
+
+def load_venue_cache():
+    """Load venue cache from disk"""
+    if os.path.exists(VENUE_CACHE_FILE):
+        with open(VENUE_CACHE_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {}
+
+
+def save_venue_cache(cache):
+    """Save venue cache to disk"""
+    os.makedirs(os.path.dirname(VENUE_CACHE_FILE), exist_ok=True)
+    with open(VENUE_CACHE_FILE, 'w', encoding='utf-8') as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+
+def geocode_address(address, area):
+    """
+    Geocode an address using Nominatim (OpenStreetMap).
+    Returns (latitude, longitude) or (None, None) if geocoding fails.
+    """
+    if not address or address == "N/A":
+        return None, None
+
+    try:
+        import time
+        # Nominatim requires a user agent
+        headers = {
+            "User-Agent": "ResidentAdvisorScraper/1.0"
+        }
+
+        # Build query - don't duplicate area if already in address
+        if area and area != "N/A" and area.lower() not in address.lower():
+            query = f"{address}, {area}"
+        else:
+            query = address
+
+        url = "https://nominatim.openstreetmap.org/search"
+        params = {
+            "q": query,
+            "format": "json",
+            "limit": 1
+        }
+
+        # Nominatim requires 1 second between requests
+        time.sleep(1)
+
+        response = requests.get(url, params=params, headers=headers, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+
+        if data and len(data) > 0:
+            lat = float(data[0]["lat"])
+            lon = float(data[0]["lon"])
+            print(f"  → Geocoded: {address[:50]}... → {lat}, {lon}")
+            return lat, lon
+
+    except Exception as e:
+        print(f"  → Geocoding failed for {address[:50]}...: {e}")
+
+    return None, None
+
+
+def is_coordinate_suspicious(lat, lon):
+    """
+    Check if coordinates seem wrong:
+    - Missing/N/A values
+    - Integers (too imprecise, should have decimals)
+    - Zero or very close to zero
+    """
+    if lat == "N/A" or lon == "N/A":
+        return True
+
+    try:
+        lat_float = float(lat)
+        lon_float = float(lon)
+
+        # Check if they're integers (no decimal precision)
+        if lat_float == int(lat_float) or lon_float == int(lon_float):
+            return True
+
+        # Check if they're zero or very close to zero
+        if abs(lat_float) < 0.01 or abs(lon_float) < 0.01:
+            return True
+
+        return False
+    except (ValueError, TypeError):
+        return True
 
 
 class EventFetcher:
@@ -20,6 +110,7 @@ class EventFetcher:
     def __init__(self, event_id):
         self.event_id = event_id
         self.payload = self.generate_payload(event_id)
+        self.venue_cache = load_venue_cache()
 
     @staticmethod
     def generate_payload(event_id):
@@ -73,10 +164,52 @@ class EventFetcher:
             event.get("flyerBack") or "N/A"
         )
 
-        # Extract venue location
-        venue_location = event.get("venue", {}).get("location", {})
-        latitude = venue_location.get("latitude", "N/A")
-        longitude = venue_location.get("longitude", "N/A")
+        # Extract venue data - check cache first
+        venue_url = f"https://ra.co{event['venue'].get('contentUrl', '/')}"
+
+        if venue_url in self.venue_cache:
+            # Use cached venue data
+            cached_venue = self.venue_cache[venue_url]
+            venue_name = cached_venue["venue"]
+            address = cached_venue["address"]
+            area = cached_venue["area"]
+            latitude = cached_venue["latitude"]
+            longitude = cached_venue["longitude"]
+            timezone = cached_venue["timezone"]
+        else:
+            # Extract from API response and cache it
+            venue_name = event["venue"]["name"]
+            address = event.get("venue", {}).get("address") or "N/A"
+            area = event["venue"]["area"]["name"]
+            venue_location = event.get("venue", {}).get("location", {})
+            latitude = venue_location.get("latitude", "N/A")
+            longitude = venue_location.get("longitude", "N/A")
+            timezone = event.get("area", {}).get("ianaTimeZone", "N/A")
+
+            # Check if coordinates are suspicious and try geocoding
+            if is_coordinate_suspicious(latitude, longitude):
+                print(f"  ⚠ Suspicious coordinates for {venue_name}: {latitude}, {longitude}")
+                geocoded_lat, geocoded_lon = geocode_address(address, area)
+
+                if geocoded_lat is not None and geocoded_lon is not None:
+                    latitude = geocoded_lat
+                    longitude = geocoded_lon
+                    print(f"  ✓ Using geocoded coordinates: {latitude}, {longitude}")
+                else:
+                    print(f"  ✗ Geocoding failed, keeping original: {latitude}, {longitude}")
+
+            # Add to cache
+            self.venue_cache[venue_url] = {
+                "venue": venue_name,
+                "address": address,
+                "area": area,
+                "latitude": latitude,
+                "longitude": longitude,
+                "timezone": timezone
+            }
+
+            # Save cache to disk
+            save_venue_cache(self.venue_cache)
 
         # Extract player links (Soundcloud/Mixcloud)
         player_links = event.get("playerLinks", [])
@@ -94,15 +227,12 @@ class EventFetcher:
             pick_blurb = "N/A"
             pick_author = "N/A"
 
-        # Extract timezone
-        timezone = event.get("area", {}).get("ianaTimeZone", "N/A")
-
         data = {
             "event_id": event["id"],
-            "area": event["venue"]["area"]["name"],
-            "venue": event["venue"]["name"],
-            "address": event.get("venue", {}).get("address") or "N/A",
-            "venue_url": f"https://ra.co{event['venue'].get('contentUrl', '/')}",
+            "area": area,
+            "venue": venue_name,
+            "address": address,
+            "venue_url": venue_url,
             "event_name": event["title"],
             "event_date": event["date"][:10],
             "start_time": convertTime(event["startTime"]),
